@@ -1,4 +1,3 @@
-
 ### Android 大神
 大牛
 
@@ -95,6 +94,7 @@
 
 
 
+
 ### 在线文档
 
 - [android api 英文文档](http://android.xsoftlab.net/reference/packages.html)
@@ -169,3 +169,79 @@ Java
 - [open-open](http://www.open-open.com/)
 - [快课网](http://www.cricode.com/2022.html)
 - [推酷](http://www.tuicool.com/search?t=1&kw=ScrollView&lang=1&pn=1)
+
+
+### 开发视频
+ 
+- [老罗Android视频[详细版]全集分享](  http://tw.gigacircle.com/jiokeji?r=15144http://talang.400gb.com/ )
+
+
+### 代码托管
+- [gitlab](https://gitlab.com/)
+- [github](https://github.com/)
+- [bitbucket](https://bitbucket.org/)
+- [开源中国托管-码云](http://git.oschina.net/)
+- [svn999](http://www.svn999.com/index.php/Home/Index/product.html)
+- [jundie-svn](http://svn.jundie.net/Help/detail/70)
+- [TaoCode-阿里云](http://code.taobao.org/project/explore/)
+- [mopass云](http://www.mopaas.com/pay.jsp)
+- [SVN 在线代码托管工具](http://blog.csdn.net/sunboy_2050/article/details/8142920)
+
+
+
+### 在线工具
+
+- [tool-在线工具](http://tool.lu/c/developer)
+- [atool-Http在线测试](http://www.atool.org/httptest.php)
+- [sojson-JSON在线解析](http://www.sojson.com/)
+- [parser-JSON在线解析](http://json.parser.online.fr/)
+- [百度api调试](http://apistore.baidu.com/astore/toolshttpproxy?apiId=usi-xQ&isAworks=1)
+- [猿工具(颜色)](http://www.yuangongju.com/color)
+- [-阿里图标(免费的图标下载)-](http://iconfont.cn/repositories)
+- [easyicon图标](http://www.easyicon.net/)
+- [google镜像1](http://www.itechzero.com/google-mirror-sites-collect.html)
+- [老D博客-google镜像](http://laod.cn/hosts)
+- [阿里云移动测试中心-测试](http://mqc.aliyun.com/?spm=0.0.0.0.xVlGQN)
+- [云测 testin-测试](http://www.testin.cn/)
+- [优测-测试](http://utest.qq.com/)
+- [爱加密(安全)](http://www.ijiami.cn/AppProtect)
+- [梆梆加密(安全)](http://www.bangcle.com/login/?next=/app/member_upload/)
+- [墨刀(原型图)](https://modao.cc/signin#settings)
+- [豆豆系统(操作系统)](http://www.doudouxitong.net/)
+- [worktile(团队任务协作)](https://worktile.com/)
+
+
+
+### 我的下载
+
+- [JDK](http://www.oracle.com/index.html)
+- [androiddevtools(android开发环境集成)](http://www.androiddevtools.cn/)
+- [eclipse](http://www.eclipse.org/home/index.php)
+- [tomcat](http://tomcat.apache.org/)
+- [eclipse tomcat插件](http://www.eclipsetotale.com/tomcatPlugin.html#A3)
+- [eclipse 主题颜色](http://eclipse-color-theme.github.com/update/)
+- [Maven](http://maven.apache.org/download.cgi#Installation)
+- [Gradle](http://gradle.org/gradle-download/  )
+- [阿帕奇架包](http://repo1.maven.org/maven2//commons-lang/commons-lang/)
+- [git window版](http://git-scm.com/download/win)
+- [navicat-for-mysql](http://www.navicat.com/download/navicat-for-mysql)
+- [navicat-for-mysql破解版](http://download.csdn.net/detail/ahgaoyong/8374803)
+- [mysql](http://dev.mysql.com/downloads/mysql/)
+- [Genymotion模拟器](http://www.genymotion.net/)
+- [virtualbox](https://www.virtualbox.org/wiki/Downloads)
+- [mongodb](http://www.mongodb.org/downloads )
+- [Redis](https://github.com/dmajkic/redis/downloads。)
+- [Tigase](https://projects.tigase.org/projects/tigase-server/files)
+- [MD阅读器](http://download.csdn.net/download/wang_jun_hua/7926441)
+- [Axure RP 7.0下载](http://www.webppd.com/index.php)
+- [截图利器-滚动截图FSCapture](http://download.csdn.net/detail/qingfeng812/9138969)
+- [研磨设计源码](http://download.csdn.net/detail/qingfeng812/9053683)
+- [ColorPix_CHS(屏幕取色工具)](http://download.csdn.net/detail/qingfeng812/8861691)
+- [测量屏幕尺寸](http://download.csdn.net/detail/qingfeng812/6266027)
+
+
+
+
+
+
+

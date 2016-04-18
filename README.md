@@ -1,6 +1,8 @@
+
 ### Android 大神
 大牛
 
+ - [android-dev-cn](https://github.com/android-cn/android-dev-cn )
  - [Trinea](http://www.trinea.cn/ )
  - [郭神](http://blog.csdn.net/sinyu890807/ ) 
  - [任玉刚](http://blog.csdn.net/singwhatiwanna)
@@ -13,11 +15,33 @@
  - [胡凯](http://hukai.me/blog/archives/ )
  - [郝锡强](http://www.haoxiqiang.info/static/timing.html ) 
  - [张兴业](http://blog.csdn.net/xyz_lmn/ )
+ - [老罗](http://blog.csdn.net/luoshengyang )
+ - [Mr.Simple(源码设计模式)](http://blog.csdn.net/bboyfeiyu )
+ - [咪当系欧巴(非常有天赋的Coder)](http://blog.csdn.net/hellogv)
+ - [android_tutor](http://blog.csdn.net/android_tutor?viewmode=contents)
+ - [gundumw100](http://gundumw100.iteye.com/)
+ - [心有灵犀鬼才心](http://blog.csdn.net/changemyself?viewmode=contents)
+ - [引路蜂](http://blog.csdn.net/mapdigit/article/details/6417192)
+
+
+
 
 博客
 
  - [袭烽](http://blog.csdn.net/shimiso/article/category/676013 )
  - [LCore](http://blog.csdn.net/lcore/article/details/8728298 )
+ - [wangjia55](http://blog.csdn.net/wangjia55/article/details/7905491)
+ - [资深架构师(服务器)](http://blog.csdn.net/chszs/article/details/41545289)
+ - [小巫](http://blog.csdn.net/wwj_748 )
+ - [aigestudio](http://blog.csdn.net/aigestudio )
+ - [码农明明桑（有审美细胞的开发者）](http://blog.isming.me/page/4/)
+ - [stay4it](http://www.cnblogs.com/stay/)
+ - [神话](http://blog.163.com/shexinyang@126/blog/#m=0&t=1&c=fks_084069080082088067085087081095085085087068087095085066086)
+ - [love-somnus-服务器端](https://github.com/love-somnus)
+ - [TommyYaphetS(ios)](http://blog.csdn.net/hmt20130412?viewmode=contents)
+ - [容芳志(ios)](http://blog.csdn.net/totogo2010)
+ 
+
 
 
 ### Android 学习导航
@@ -33,7 +57,6 @@
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance ) 
 - [awesome-android](https://github.com/JStumpp/awesome-android )
 - [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries) 
-- [android-demos](https://github.com/novoda/android-demos) 
 - [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
 - [android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese)
 - [appbrain(库使用统计网站)](http://www.appbrain.com/stats/libraries/dev)
@@ -52,10 +75,17 @@
 - [(MDCC技术大咖秀)Android内存优化之OOM](http://www.csdn.net/article/2015-09-18/2825737/1#0-tsina-1-84552-397232819ff9a47a7b7e80a40613cfe1)
 - [Material Design Theme UI](https://github.com/qiujuer/Genius-Android )
 - [AndroidCommon](https://github.com/Trinea/AndroidCommon)
+- [coursera-android](https://github.com/aporter/coursera-android/tree/master/Examples)
+- [android-demos](https://github.com/novoda/android-demos) 
+- [Android related examples](https://github.com/hmkcode/Android)
+- [它人订阅的牛人博客](https://github.com/Gracker/Rss-IT)
+- [2014 总结和 2015 展望](https://github.com/aosp-exchange-group/fuck-2014-flirt-2015)
+
 
 
 
 ### Android 代码库
+
 - [安卓巴士](http://www.apkbus.com/forum-417-1.html)
 - [Arsenal](http://android-arsenal.com/  ) 
 - [AndroidLibraries](http://alamkanak.github.io/android-libraries-and-resources/)
@@ -77,6 +107,7 @@
 
 
 ### Java技术
+
 - [maven-framework-project](https://github.com/sxyx2008/maven-framework-project)
 - [datastructure(算法设计)](https://github.com/buptdavid/datastructure)
 - [spring-framework](https://github.com/spring-projects/spring-framework)
@@ -125,6 +156,7 @@
 
 
 ### 在线视频
+
 - [慕课网](http://www.imooc.com/)
 - [极客学院](http://www.jikexueyuan.com/course/android/1-3-0/)
 - [麦子学院](http://www.maiziedu.com/course/list/?catagory=Android&career=all&sort_by=)
@@ -138,6 +170,7 @@
 - [菜鸟窝](http://www.cniao5.com/course/)
 
 ### 内侧发布
+
 - [蒲公英](http://www.pgyer.com/)
 - [fir](http://fir.im/)
 
@@ -172,11 +205,12 @@ Java
 
 
 ### 开发视频
- 
+
 - [老罗Android视频[详细版]全集分享](  http://tw.gigacircle.com/jiokeji?r=15144http://talang.400gb.com/ )
 
 
 ### 代码托管
+
 - [gitlab](https://gitlab.com/)
 - [github](https://github.com/)
 - [bitbucket](https://bitbucket.org/)
@@ -238,6 +272,13 @@ Java
 - [研磨设计源码](http://download.csdn.net/detail/qingfeng812/9053683)
 - [ColorPix_CHS(屏幕取色工具)](http://download.csdn.net/detail/qingfeng812/8861691)
 - [测量屏幕尺寸](http://download.csdn.net/detail/qingfeng812/6266027)
+
+
+
+
+
+
+
 
 
 

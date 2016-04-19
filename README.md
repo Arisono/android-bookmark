@@ -24,6 +24,7 @@
  - [引路蜂](http://blog.csdn.net/mapdigit/article/details/6417192)
 
 
+ 
 
 
 博客
@@ -50,9 +51,7 @@
 - [MaterialDesign(Material案例大全)](https://github.com/lightSky/Awesome-MaterialDesign)
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 - [awesome-android](https://github.com/snowdream/awesome-android)
-- [android 日常积累(书签)](https://github.com/lizhangqu/CoreLink) 
 - [android 常用库(CSDN)](http://blog.csdn.net/xxmbaobao1/article/details/44038197) 
-- [Android-Tips(书签)](https://github.com/tangqi92/Android-Tips)
 - [Android源码设计模式](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis) 
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance ) 
 - [awesome-android](https://github.com/JStumpp/awesome-android )
@@ -62,7 +61,6 @@
 - [appbrain(库使用统计网站)](http://www.appbrain.com/stats/libraries/dev)
 - [github排名前100的android开源库](http://www.codeceo.com/article/github-top-100-android-libs.html)
 - [github热门技术组织](https://github-ranking.com/)
-- [android-dev-bookmarks](https://github.com/Arisono/android-dev-bookmarks)
 - [f-droid(开源项目展示平台)](https://f-droid.org/repository/browse/)
 - [The Busy Coder's Guide to Andriod Development(书籍+源码)](https://github.com/commonsguy/cw-omnibus)
 - [openproject(github用户)](https://github.com/openproject)
@@ -71,7 +69,6 @@
 - [博客专家](https://github.com/android-cn/android-dev-cn )
 - [awesome-resources(android沉思录)](http://yeungeek.com/awesome-resources/  )
 - [android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
-- [androiddevtools](http://www.androiddevtools.cn/)
 - [(MDCC技术大咖秀)Android内存优化之OOM](http://www.csdn.net/article/2015-09-18/2825737/1#0-tsina-1-84552-397232819ff9a47a7b7e80a40613cfe1)
 - [Material Design Theme UI](https://github.com/qiujuer/Genius-Android )
 - [AndroidCommon](https://github.com/Trinea/AndroidCommon)
@@ -178,7 +175,7 @@
 ### 技术名站
 android
 
-- [极客导航(主流技术)](http://www.gogeeks.cn/)
+
 - [androidweekly](http://androidweekly.net/)
 - [开发技术前线](http://www.devtf.cn/)
 - [码农网](http://www.codeceo.com/)
@@ -277,12 +274,22 @@ Java
 
 
 
+### 书签汇总
 
-
-
-
-
-
+- [极客导航(主流技术)](http://www.gogeeks.cn/)
+- [frontend-dev-bookmarks(前端开发书签)](https://github.com/zzxadi/frontend-dev-bookmarks)
+- [hotchpotch_of_iOS_bookmark(IOS开发书签)](https://github.com/JRJian/hotchpotch_of_iOS_bookmark)
+- [Learn-Algorithms(算法书签)](https://github.com/nonstriater/Learn-Algorithms)
+- [web前端网站收藏](https://github.com/iamjoel/front-end-note/tree/master/bookmark)
+- [front-end-collect](https://github.com/foru17/front-end-collect)
+- [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture)
+- [Awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
+- [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)
+- [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)
+- [android 日常积累(书签)](https://github.com/lizhangqu/CoreLink) 
+- [androiddevtools](http://www.androiddevtools.cn/)
+- [Android-Tips(书签)](https://github.com/tangqi92/Android-Tips)
+- [android-dev-bookmarks](https://github.com/Arisono/android-dev-bookmarks)
 
 
 

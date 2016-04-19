@@ -240,6 +240,8 @@ Java
 - [墨刀(原型图)](https://modao.cc/signin#settings)
 - [豆豆系统(操作系统)](http://www.doudouxitong.net/)
 - [worktile(团队任务协作)](https://worktile.com/)
+- [快站]( http://www.kuaizhan.com/)
+
 
 
 
@@ -290,6 +292,6 @@ Java
 - [androiddevtools](http://www.androiddevtools.cn/)
 - [Android-Tips(书签)](https://github.com/tangqi92/Android-Tips)
 - [android-dev-bookmarks](https://github.com/Arisono/android-dev-bookmarks)
-
+- [设计师网址导航](http://www.nav80.com/)
 
 

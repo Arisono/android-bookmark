@@ -21,23 +21,26 @@
  - [gundumw100](http://gundumw100.iteye.com/)
  - [心有灵犀鬼才心](http://blog.csdn.net/changemyself?viewmode=contents)
  - [引路蜂](http://blog.csdn.net/mapdigit/article/details/6417192)
+ - [innost(阿拉神农)](http://blog.csdn.net/innost)
 
 
 
 ### 技术博客[综合]
 
- - [袭烽](http://blog.csdn.net/shimiso/article/category/676013 )
- - [LCore](http://blog.csdn.net/lcore/article/details/8728298 )
- - [wangjia55](http://blog.csdn.net/wangjia55/article/details/7905491)
+ - [袭烽(Android)](http://blog.csdn.net/shimiso/article/category/676013 )
+ - [LCore(Android)](http://blog.csdn.net/lcore/article/details/8728298 )
+ - [wangjia55(Android)](http://blog.csdn.net/wangjia55/article/details/7905491)
  - [资深架构师(服务器)](http://blog.csdn.net/chszs/article/details/41545289)
- - [小巫](http://blog.csdn.net/wwj_748 )
+ - [小巫(Android)](http://blog.csdn.net/wwj_748 )
  - [aigestudio](http://blog.csdn.net/aigestudio )
- - [码农明明桑（有审美细胞的开发者）](http://blog.isming.me/page/4/)
- - [stay4it](http://www.cnblogs.com/stay/)
- - [神话](http://blog.163.com/shexinyang@126/blog/#m=0&t=1&c=fks_084069080082088067085087081095085085087068087095085066086)
+ - [码农明明桑（有审美细胞的开发者）(Android)](http://blog.isming.me/page/4/)
+ - [stay4it(Android)](http://www.cnblogs.com/stay/)
+ - [神话(Android)](http://blog.163.com/shexinyang@126/blog/#m=0&t=1&c=fks_084069080082088067085087081095085085087068087095085066086)
  - [love-somnus-服务器端](https://github.com/love-somnus)
  - [TommyYaphetS(ios)](http://blog.csdn.net/hmt20130412?viewmode=contents)
  - [容芳志(ios)](http://blog.csdn.net/totogo2010)
+ - [mchdba(数据库)](http://blog.csdn.net/mchdba)
+ - [一叶飘舟(Android)](http://blog.csdn.net/jdsjlzx/article/details/42024447)
  
 
 
@@ -75,7 +78,7 @@
 - [Android related examples](https://github.com/hmkcode/Android)
 - [它人订阅的牛人博客](https://github.com/Gracker/Rss-IT)
 - [2014 总结和 2015 展望](https://github.com/aosp-exchange-group/fuck-2014-flirt-2015)
-
+- [googlesamples(googles开发的sample)](https://github.com/googlesamples?page=1)
 
 
 
@@ -149,7 +152,9 @@
 - [mianwww(在线笔试)](http://www.mianwww.com/html/category/it-interview/android)
 - [计蒜客](http://www.jisuanke.com/course#verified)
 - [SQL教程](https://www.1keydata.com/cn/sql/)
+- [菜鸟教程](http://www.runoob.com/)
 - [ExtJs官网](http://extjs.org.cn/)
+- [WEB开发基础最佳实践手册](http://wf.uisdc.com/cn/input/form-input/choose-the-best-input-type.html)
 
 
 ### 在线视频
@@ -191,6 +196,7 @@
 - [ndroidchina](http://www.androidchina.net/)
 - [stormzhang](http://stormzhang.com/posts/)
 - [eoe社区](http://www.eoeandroid.com/topic-demo.html)
+- [Phonegap100(移动Web领域)](http://www.phonegap100.com/)
 
 ### 技术名站-Java
 
@@ -223,12 +229,12 @@
 
 - [Gitlab](https://gitlab.com/)
 - [Github](https://github.com/)
+- [TaoCode(阿里云SVN托管平台)](http://code.taobao.org/project/explore/)
+- [CSDN代码托管](https://code.csdn.net/dashboard/index)
 - [Bitbucket](https://bitbucket.org/)
 - [开源中国托管-码云](http://git.oschina.net/)
-- [CSDN代码托管](https://code.csdn.net/dashboard/index)
 - [svn999](http://www.svn999.com/index.php/Home/Index/product.html)
 - [jundie-svn](http://svn.jundie.net/Help/detail/70)
-- [TaoCode-阿里云](http://code.taobao.org/project/explore/)
 - [mopass云](http://www.mopaas.com/pay.jsp)
 - [SVN 在线代码托管工具](http://blog.csdn.net/sunboy_2050/article/details/8142920)
 
@@ -246,7 +252,7 @@
 - [easyicon图标](http://www.easyicon.net/)
 - [google镜像1](http://www.itechzero.com/google-mirror-sites-collect.html)
 - [老D博客-google镜像](http://laod.cn/hosts)
-
+- [Html5兼容性查询](http://caniuse.com/#search=date)
 
 
 ### 移动服务
@@ -264,6 +270,7 @@
 - [androiddevtools(android开发环境集成)](http://www.androiddevtools.cn/)
 - [eclipse](http://www.eclipse.org/home/index.php)
 - [tomcat](http://tomcat.apache.org/)
+- [apache-commons](http://commons.apache.org/)
 - [eclipse tomcat插件](http://www.eclipsetotale.com/tomcatPlugin.html#A3)
 - [eclipse 主题颜色](http://eclipse-color-theme.github.com/update/)
 - [Maven](http://maven.apache.org/download.cgi#Installation)
@@ -284,7 +291,7 @@
 - [研磨设计源码](http://download.csdn.net/detail/qingfeng812/9053683)
 - [ColorPix_CHS(屏幕取色工具)](http://download.csdn.net/detail/qingfeng812/8861691)
 - [测量屏幕尺寸](http://download.csdn.net/detail/qingfeng812/6266027)
-
+- [icons(图标下载)](http://www.uisdc.com/category/uiicon/icons)
 
 
 ### 书签汇总
@@ -335,3 +342,16 @@
 - [25xt](http://www.25xt.com/works/appdesign)
 - [popapp](https://popapp.in/)
 - [justinmind.](http://www.justinmind.com.cn/)
+
+
+### 英文网站
+
+- [stackoverflow](http://stackoverflow.com/)
+- [CodeProject](http://www.codeproject.com/?cat=22)
+- [teamtreehouse](https://teamtreehouse.com/)
+- [ycombinator](https://news.ycombinator.com/news)
+
+
+### Android架构
+
+- [android-architecture(Android架构设计好资料-来源google)](https://github.com/googlesamples/android-architecture)

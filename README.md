@@ -355,3 +355,10 @@
 ### Android架构
 
 - [android-architecture(Android架构设计好资料-来源google)](https://github.com/googlesamples/android-architecture)
+
+
+### Android开源库API
+
+- [OrmLite](http://ormlite.com/javadoc/ormlite-core/overview-summary.html)
+
+

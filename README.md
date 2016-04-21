@@ -1,6 +1,5 @@
 
-### Android 大神
-大牛
+### Android大神
 
  - [android-dev-cn](https://github.com/android-cn/android-dev-cn )
  - [Trinea](http://www.trinea.cn/ )
@@ -24,10 +23,8 @@
  - [引路蜂](http://blog.csdn.net/mapdigit/article/details/6417192)
 
 
- 
 
-
-博客
+### 技术博客[综合]
 
  - [袭烽](http://blog.csdn.net/shimiso/article/category/676013 )
  - [LCore](http://blog.csdn.net/lcore/article/details/8728298 )
@@ -46,6 +43,7 @@
 
 
 ### Android 学习导航
+
 - [android-open-project(Trinea)](https://github.com/Trinea/android-open-project)
 - [android-open-project-demo(开源项目Demo)](https://github.com/android-cn/android-open-project-demo) 
 - [MaterialDesign(Material案例大全)](https://github.com/lightSky/Awesome-MaterialDesign)
@@ -139,6 +137,7 @@
 
 
 ### 在线教程
+
 - [易百教程](http://www.yiibai.com/)
 - [实验楼](https://www.shiyanlou.com/)
 - [汇智网](http://www.hubwiz.com/)
@@ -149,7 +148,8 @@
 - [牛客网(在线笔试)](http://www.nowcoder.com/481450)
 - [mianwww(在线笔试)](http://www.mianwww.com/html/category/it-interview/android)
 - [计蒜客](http://www.jisuanke.com/course#verified)
-
+- [SQL教程](https://www.1keydata.com/cn/sql/)
+- [ExtJs官网](http://extjs.org.cn/)
 
 
 ### 在线视频
@@ -166,17 +166,16 @@
 - [新浪公开课](http://open.sina.com.cn/discipline/id_13/)
 - [菜鸟窝](http://www.cniao5.com/course/)
 
+
 ### 内侧发布
 
 - [蒲公英](http://www.pgyer.com/)
 - [fir](http://fir.im/)
 
 
-### 技术名站
-android
+### 技术名站-Android
 
-
-- [androidweekly](http://androidweekly.net/)
+- [Androidweekly](http://androidweekly.net/)
 - [开发技术前线](http://www.devtf.cn/)
 - [码农网](http://www.codeceo.com/)
 - [51cto](http://mobile.51cto.com/android/)
@@ -187,18 +186,32 @@ android
 - [codecloud](http://codecloud.net/)
 - [博客园](http://www.cnblogs.com/)
 - [学UI网](http://www.xueui.cn/category/experience/app-experience)
-- [android专区](http://www.oschina.net/android)
+- [Android专区](http://www.oschina.net/android)
 - [干货集中营](http://gank.io/2015/10/15)
-- [androidchina](http://www.androidchina.net/)
+- [ndroidchina](http://www.androidchina.net/)
 - [stormzhang](http://stormzhang.com/posts/)
+- [eoe社区](http://www.eoeandroid.com/topic-demo.html)
 
-
-Java
+### 技术名站-Java
 
 - [开源中国](http://www.oschina.net/)
 - [open-open](http://www.open-open.com/)
+- [divcss5(网页布局)](http://www.divcss5.com/)
+- [HTML5](http://www.html5cn.org/)
 - [快课网](http://www.cricode.com/2022.html)
 - [推酷](http://www.tuicool.com/search?t=1&kw=ScrollView&lang=1&pn=1)
+- [程序员之家](http://bbs.it-home.org/)
+- [酷勤网](http://www.kuqin.com/pragmatic/)
+- [拼吾爱(电子书)](http://www.pin5i.com/)
+- [产品原型设计](http://www.webppd.com/index.html)
+- [code4app(IOS名站)](http://code4app.com/category/networking?sort=1)
+- [cocoachina(IOS名站)](http://code.cocoachina.com/)
+- [bootcss](http://www.bootcss.com/)
+- [前端开发css88](http://www.css88.com/)
+- [前端里](http://www.yyyweb.com/)
+- [Web开发](http://www.admin10000.com/)
+- [ourjs](http://ourjs.com/)
+
 
 
 ### 开发视频
@@ -208,10 +221,11 @@ Java
 
 ### 代码托管
 
-- [gitlab](https://gitlab.com/)
-- [github](https://github.com/)
-- [bitbucket](https://bitbucket.org/)
+- [Gitlab](https://gitlab.com/)
+- [Github](https://github.com/)
+- [Bitbucket](https://bitbucket.org/)
 - [开源中国托管-码云](http://git.oschina.net/)
+- [CSDN代码托管](https://code.csdn.net/dashboard/index)
 - [svn999](http://www.svn999.com/index.php/Home/Index/product.html)
 - [jundie-svn](http://svn.jundie.net/Help/detail/70)
 - [TaoCode-阿里云](http://code.taobao.org/project/explore/)
@@ -232,17 +246,16 @@ Java
 - [easyicon图标](http://www.easyicon.net/)
 - [google镜像1](http://www.itechzero.com/google-mirror-sites-collect.html)
 - [老D博客-google镜像](http://laod.cn/hosts)
+
+
+
+### 移动服务
+
 - [阿里云移动测试中心-测试](http://mqc.aliyun.com/?spm=0.0.0.0.xVlGQN)
 - [云测 testin-测试](http://www.testin.cn/)
 - [优测-测试](http://utest.qq.com/)
 - [爱加密(安全)](http://www.ijiami.cn/AppProtect)
 - [梆梆加密(安全)](http://www.bangcle.com/login/?next=/app/member_upload/)
-- [墨刀(原型图)](https://modao.cc/signin#settings)
-- [豆豆系统(操作系统)](http://www.doudouxitong.net/)
-- [worktile(团队任务协作)](https://worktile.com/)
-- [快站]( http://www.kuaizhan.com/)
-
-
 
 
 ### 我的下载
@@ -274,8 +287,6 @@ Java
 
 
 
-
-
 ### 书签汇总
 
 - [极客导航(主流技术)](http://www.gogeeks.cn/)
@@ -292,6 +303,35 @@ Java
 - [androiddevtools](http://www.androiddevtools.cn/)
 - [Android-Tips(书签)](https://github.com/tangqi92/Android-Tips)
 - [android-dev-bookmarks](https://github.com/Arisono/android-dev-bookmarks)
+
+
+
+### 其它网站
+
+- [人人都是产品经理](http://www.woshipm.com/)
+- [移动信息化的那些事](http://www.yidonghua.com/)
+- [励志中国](http://www.lizhizhongguo.com/)
+- [阅读时间](http://www.timetimetime.net/catalog.asp?cate=13)
+- [创业第一步](http://www.cyone.com.cn/)
+- [IT经理](http://www.ctocio.com/)
+- [小本创业](http://xbcy.3158.cn/)
+- [第一商业网](http://www.topbiz360.com/)
+- [南方周末](http://www.infzm.com/)
+- [中研网](http://www.chinairn.com/)
+- [职业规划](http://www.00190019.com/)
+- [房价网](http://sh.fangjia.com/)
+- [艾瑞网](http://www.iresearch.cn/)
+- [快站]( http://www.kuaizhan.com/)
+- [墨刀(原型图)](https://modao.cc/signin#settings)
+- [豆豆系统(操作系统)](http://www.doudouxitong.net/)
+- [worktile(团队任务协作)](https://worktile.com/)
+
+
+
+### 美工设计
+
 - [设计师网址导航](http://www.nav80.com/)
-
-
+- [ui4app](http://ui4app.com/category/button)
+- [25xt](http://www.25xt.com/works/appdesign)
+- [popapp](https://popapp.in/)
+- [justinmind.](http://www.justinmind.com.cn/)

@@ -22,8 +22,9 @@
  - [心有灵犀鬼才心](http://blog.csdn.net/changemyself?viewmode=contents)
  - [引路蜂](http://blog.csdn.net/mapdigit/article/details/6417192)
  - [innost(阿拉神农)](http://blog.csdn.net/innost)
-
-
+ - [harvic](http://blog.csdn.net/harvic880925/article/details/39585347)
+ - [wangkuifeng0118](http://blog.csdn.net/wangkuifeng0118/article/details/7300156)
+ - [wdaming1986](http://blog.csdn.net/wdaming1986/article/details/7461043)
 
 ### 技术博客[综合]
 
@@ -142,6 +143,7 @@
 ### 在线教程
 
 - [易百教程](http://www.yiibai.com/)
+- [w3school](http://www.w3school.com.cn/index.html)
 - [实验楼](https://www.shiyanlou.com/)
 - [汇智网](http://www.hubwiz.com/)
 - [fenby](http://www.fenby.com/courses/)

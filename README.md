@@ -42,7 +42,7 @@
  - [容芳志(ios)](http://blog.csdn.net/totogo2010)
  - [mchdba(数据库)](http://blog.csdn.net/mchdba)
  - [一叶飘舟(Android)](http://blog.csdn.net/jdsjlzx/article/details/42024447)
- 
+
 
 
 
@@ -60,15 +60,10 @@
 - [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries) 
 - [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
 - [android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese)
-- [appbrain(库使用统计网站)](http://www.appbrain.com/stats/libraries/dev)
-- [github排名前100的android开源库](http://www.codeceo.com/article/github-top-100-android-libs.html)
-- [github热门技术组织](https://github-ranking.com/)
-- [f-droid(开源项目展示平台)](https://f-droid.org/repository/browse/)
 - [The Busy Coder's Guide to Andriod Development(书籍+源码)](https://github.com/commonsguy/cw-omnibus)
 - [openproject(github用户)](https://github.com/openproject)
 - [整理的android开发资源](http://www.stormzhang.com/android/2014/06/05/android-awesome-resources/)
 - [我是如何自学Android，资料分享（2015 版）](http://www.kuqin.com/shuoit/20150211/344798.html)
-- [博客专家](https://github.com/android-cn/android-dev-cn )
 - [awesome-resources(android沉思录)](http://yeungeek.com/awesome-resources/  )
 - [android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 - [(MDCC技术大咖秀)Android内存优化之OOM](http://www.csdn.net/article/2015-09-18/2825737/1#0-tsina-1-84552-397232819ff9a47a7b7e80a40613cfe1)
@@ -88,7 +83,7 @@
 - [安卓巴士](http://www.apkbus.com/forum-417-1.html)
 - [Arsenal](http://android-arsenal.com/  ) 
 - [AndroidLibraries](http://alamkanak.github.io/android-libraries-and-resources/)
-- [Gems](http://www.android-gems.com/category )
+- [Android-Gems](http://www.android-gems.com/category )
 - [Appance](http://www.appance.com/category/android/develop/android-libraries-components/ ) 
 - [Devstore](http://www.devstore.cn/ ) 
 - [android-nice-repo](http://dusunboy.github.io/android-nice-repo/)
@@ -231,6 +226,7 @@
 
 - [Gitlab](https://gitlab.com/)
 - [Github](https://github.com/)
+- [coding代码演示平台](https://coding.net/help/doc/paas/getting-started.html)
 - [TaoCode(阿里云SVN托管平台)](http://code.taobao.org/project/explore/)
 - [CSDN代码托管](https://code.csdn.net/dashboard/index)
 - [Bitbucket](https://bitbucket.org/)
@@ -299,19 +295,41 @@
 ### 书签汇总
 
 - [极客导航(主流技术)](http://www.gogeeks.cn/)
+- [androiddevtools](http://www.androiddevtools.cn/)
 - [frontend-dev-bookmarks(前端开发书签)](https://github.com/zzxadi/frontend-dev-bookmarks)
 - [hotchpotch_of_iOS_bookmark(IOS开发书签)](https://github.com/JRJian/hotchpotch_of_iOS_bookmark)
 - [Learn-Algorithms(算法书签)](https://github.com/nonstriater/Learn-Algorithms)
 - [web前端网站收藏](https://github.com/iamjoel/front-end-note/tree/master/bookmark)
 - [front-end-collect](https://github.com/foru17/front-end-collect)
-- [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture)
+- [Awesome-Android-Architecture(架构)](https://github.com/Juude/Awesome-Android-Architecture)
 - [Awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
 - [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)
 - [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)
 - [android 日常积累(书签)](https://github.com/lizhangqu/CoreLink) 
-- [androiddevtools](http://www.androiddevtools.cn/)
 - [Android-Tips(书签)](https://github.com/tangqi92/Android-Tips)
 - [android-dev-bookmarks](https://github.com/Arisono/android-dev-bookmarks)
+- [Android_Data](https://github.com/Freelander/Android_Data)
+- [Android 学习资料收集(大全性质的导航)](https://github.com/Freelander/Android_Data)
+- [博客专家](https://github.com/android-cn/android-dev-cn )
+
+
+### Android架构
+
+- [android-architecture(Android架构设计好资料-来源google)](https://github.com/googlesamples/android-architecture)
+
+
+### Android开源库API
+
+- [OrmLite](http://ormlite.com/javadoc/ormlite-core/overview-summary.html)
+
+
+### 排行榜
+
+- [友盟移动指数](http://www.umindex.com/)
+- [github排名前100的android开源库](http://www.codeceo.com/article/github-top-100-android-libs.html)
+- [github热门技术组织](https://github-ranking.com/)
+- [appbrain(库使用统计网站)](http://www.appbrain.com/stats/libraries/dev)
+
 
 
 
@@ -352,15 +370,3 @@
 - [CodeProject](http://www.codeproject.com/?cat=22)
 - [teamtreehouse](https://teamtreehouse.com/)
 - [ycombinator](https://news.ycombinator.com/news)
-
-
-### Android架构
-
-- [android-architecture(Android架构设计好资料-来源google)](https://github.com/googlesamples/android-architecture)
-
-
-### Android开源库API
-
-- [OrmLite](http://ormlite.com/javadoc/ormlite-core/overview-summary.html)
-
-

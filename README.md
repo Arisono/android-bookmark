@@ -25,6 +25,7 @@
  - [harvic](http://blog.csdn.net/harvic880925/article/details/39585347)
  - [wangkuifeng0118](http://blog.csdn.net/wangkuifeng0118/article/details/7300156)
  - [wdaming1986](http://blog.csdn.net/wdaming1986/article/details/7461043)
+ - [DoctorQ](http://blog.csdn.net/itfootball/article/details/22161859)
 
 ### 技术博客[综合]
 
@@ -133,6 +134,7 @@
 - [Maven依赖包查询1](https://repository.sonatype.org/)
 - [Maven依赖包查询2](http://maven.outofmemory.cn/)
 - [jarfire(jar包下载)](http://cn.jarfire.org/)
+- [API之家](http://www.apihome.cn/api/android/SQLiteDatabase.html)
 
 
 ### 在线教程
@@ -220,6 +222,8 @@
 ### 开发视频
 
 - [老罗Android视频[详细版]全集分享](  http://tw.gigacircle.com/jiokeji?r=15144http://talang.400gb.com/ )
+- [Sundy's 《Android深入浅出》《Android高级应用》《Android开发视频教程》](http://www.verycd.com/topics/2900036/)
+- [mars Android视频全集](http://mars.apkbus.com/)
 
 
 ### 代码托管
@@ -267,6 +271,7 @@
 - [JDK](http://www.oracle.com/index.html)
 - [androiddevtools(android开发环境集成)](http://www.androiddevtools.cn/)
 - [eclipse](http://www.eclipse.org/home/index.php)
+- [svn eclipse插件在线更新地址](http://subclipse.tigris.org/update_1.10.x)
 - [tomcat](http://tomcat.apache.org/)
 - [apache-commons](http://commons.apache.org/)
 - [eclipse tomcat插件](http://www.eclipsetotale.com/tomcatPlugin.html#A3)
@@ -311,6 +316,14 @@
 - [Android_Data](https://github.com/Freelander/Android_Data)
 - [Android 学习资料收集(大全性质的导航)](https://github.com/Freelander/Android_Data)
 - [博客专家](https://github.com/android-cn/android-dev-cn )
+- [AndroidNote(书签)](https://github.com/venshine/AndroidNote)
+- [java-learning](https://github.com/brianway/java-learning)
+- [jsoup-learning](https://github.com/code4craft/jsoup-learning)
+- [java-core-learning-example](https://github.com/JeffLi1993/java-core-learning-example)
+- [Android-Gradle-Examples](https://github.com/Goddchen/Android-Gradle-Examples)
+- [Gradle-2-User-Guide](https://github.com/waylau/Gradle-2-User-Guide)
+- [Android-Camera-Example](https://github.com/josnidhin/Android-Camera-Example)
+
 
 
 ### Android架构
@@ -350,7 +363,10 @@
 - [艾瑞网](http://www.iresearch.cn/)
 - [快站]( http://www.kuaizhan.com/)
 - [墨刀(原型图)](https://modao.cc/signin#settings)
+- [Win8系统之家](http://www.win8.net/)
+- [雨林木风Win10](http://www.ylmfwin100.com/)
 - [豆豆系统(操作系统)](http://www.doudouxitong.net/)
+- [系统之家](http://www.ghost580.com/)
 - [worktile(团队任务协作)](https://worktile.com/)
 
 
@@ -370,3 +386,18 @@
 - [CodeProject](http://www.codeproject.com/?cat=22)
 - [teamtreehouse](https://teamtreehouse.com/)
 - [ycombinator](https://news.ycombinator.com/news)
+
+
+### 代码演示
+
+- [coding(推荐)](https://coding.net/)
+- [git osc paas](http://www.oschina.net/news/55968/git-osc-paas)
+- [mopaas](http://www.oschina.net/news/55994/oschina-paas-platform-with-mopaas)
+
+
+### 面试资料
+
+- [Java-gitbooks](https://dongchuan.gitbooks.io/java-interview-question/content/java/the_difference_between_static_variables_and_instance_variables.html)
+
+
+

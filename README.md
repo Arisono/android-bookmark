@@ -1,87 +1,90 @@
+## ç›®å½•
 
-### Android´óÉñ
+[TOC]
+
+### Androidå¤§ç¥
 
  - [android-dev-cn](https://github.com/android-cn/android-dev-cn )
  - [Trinea](http://www.trinea.cn/ )
- - [¹ùÉñ](http://blog.csdn.net/sinyu890807/ ) 
- - [ÈÎÓñ¸Õ](http://blog.csdn.net/singwhatiwanna)
- - [ºèÑó](http://blog.csdn.net/lmj623565791 )
- - [ÏÄ°²Ã÷](http://blog.csdn.net/xiaanming ) 
- - [ĞìÒ½Éú](http://blog.csdn.net/eclipsexys ) 
+ - [éƒ­ç¥](http://blog.csdn.net/sinyu890807/ ) 
+ - [ä»»ç‰åˆš](http://blog.csdn.net/singwhatiwanna)
+ - [é¸¿æ´‹](http://blog.csdn.net/lmj623565791 )
+ - [å¤å®‰æ˜](http://blog.csdn.net/xiaanming ) 
+ - [å¾åŒ»ç”Ÿ](http://blog.csdn.net/eclipsexys ) 
  - [daimajia](http://blog.daimajia.com/ )
  - [stormzhang](http://stormzhang.com/posts.html ) 
- - [Å©Ãñ²®²®](http://www.cnblogs.com/over140/ ) 
- - [ºú¿­](http://hukai.me/blog/archives/ )
- - [ºÂÎıÇ¿](http://www.haoxiqiang.info/static/timing.html ) 
- - [ÕÅĞËÒµ](http://blog.csdn.net/xyz_lmn/ )
- - [ÀÏÂŞ](http://blog.csdn.net/luoshengyang )
- - [Mr.Simple(Ô´ÂëÉè¼ÆÄ£Ê½)](http://blog.csdn.net/bboyfeiyu )
- - [ßäµ±ÏµÅ·°Í(·Ç³£ÓĞÌì¸³µÄCoder)](http://blog.csdn.net/hellogv)
+ - [å†œæ°‘ä¼¯ä¼¯](http://www.cnblogs.com/over140/ ) 
+ - [èƒ¡å‡¯](http://hukai.me/blog/archives/ )
+ - [éƒé”¡å¼º](http://www.haoxiqiang.info/static/timing.html ) 
+ - [å¼ å…´ä¸š](http://blog.csdn.net/xyz_lmn/ )
+ - [è€ç½—](http://blog.csdn.net/luoshengyang )
+ - [Mr.Simple(æºç è®¾è®¡æ¨¡å¼)](http://blog.csdn.net/bboyfeiyu )
+ - [å’ªå½“ç³»æ¬§å·´(éå¸¸æœ‰å¤©èµ‹çš„Coder)](http://blog.csdn.net/hellogv)
  - [android_tutor](http://blog.csdn.net/android_tutor?viewmode=contents)
  - [gundumw100](http://gundumw100.iteye.com/)
- - [ĞÄÓĞÁéÏ¬¹í²ÅĞÄ](http://blog.csdn.net/changemyself?viewmode=contents)
- - [ÒıÂ··ä](http://blog.csdn.net/mapdigit/article/details/6417192)
- - [innost(°¢À­ÉñÅ©)](http://blog.csdn.net/innost)
+ - [å¿ƒæœ‰çµçŠ€é¬¼æ‰å¿ƒ](http://blog.csdn.net/changemyself?viewmode=contents)
+ - [å¼•è·¯èœ‚](http://blog.csdn.net/mapdigit/article/details/6417192)
+ - [innost(é˜¿æ‹‰ç¥å†œ)](http://blog.csdn.net/innost)
  - [harvic](http://blog.csdn.net/harvic880925/article/details/39585347)
  - [wangkuifeng0118](http://blog.csdn.net/wangkuifeng0118/article/details/7300156)
  - [wdaming1986](http://blog.csdn.net/wdaming1986/article/details/7461043)
  - [DoctorQ](http://blog.csdn.net/itfootball/article/details/22161859)
 
-### ¼¼Êõ²©¿Í[×ÛºÏ]
+### æŠ€æœ¯åšå®¢[ç»¼åˆ]
 
- - [Ï®·é(Android)](http://blog.csdn.net/shimiso/article/category/676013 )
+ - [è¢­çƒ½(Android)](http://blog.csdn.net/shimiso/article/category/676013 )
  - [LCore(Android)](http://blog.csdn.net/lcore/article/details/8728298 )
  - [wangjia55(Android)](http://blog.csdn.net/wangjia55/article/details/7905491)
- - [×ÊÉî¼Ü¹¹Ê¦(·şÎñÆ÷)](http://blog.csdn.net/chszs/article/details/41545289)
- - [Ğ¡Î×(Android)](http://blog.csdn.net/wwj_748 )
+ - [èµ„æ·±æ¶æ„å¸ˆ(æœåŠ¡å™¨)](http://blog.csdn.net/chszs/article/details/41545289)
+ - [å°å·«(Android)](http://blog.csdn.net/wwj_748 )
  - [aigestudio](http://blog.csdn.net/aigestudio )
- - [ÂëÅ©Ã÷Ã÷É££¨ÓĞÉóÃÀÏ¸°ûµÄ¿ª·¢Õß£©(Android)](http://blog.isming.me/page/4/)
+ - [ç å†œæ˜æ˜æ¡‘ï¼ˆæœ‰å®¡ç¾ç»†èƒçš„å¼€å‘è€…ï¼‰(Android)](http://blog.isming.me/page/4/)
  - [stay4it(Android)](http://www.cnblogs.com/stay/)
- - [Éñ»°(Android)](http://blog.163.com/shexinyang@126/blog/#m=0&t=1&c=fks_084069080082088067085087081095085085087068087095085066086)
- - [love-somnus-·şÎñÆ÷¶Ë](https://github.com/love-somnus)
+ - [ç¥è¯(Android)](http://blog.163.com/shexinyang@126/blog/#m=0&t=1&c=fks_084069080082088067085087081095085085087068087095085066086)
+ - [love-somnus-æœåŠ¡å™¨ç«¯](https://github.com/love-somnus)
  - [TommyYaphetS(ios)](http://blog.csdn.net/hmt20130412?viewmode=contents)
- - [Èİ·¼Ö¾(ios)](http://blog.csdn.net/totogo2010)
- - [mchdba(Êı¾İ¿â)](http://blog.csdn.net/mchdba)
- - [Ò»Ò¶Æ®ÖÛ(Android)](http://blog.csdn.net/jdsjlzx/article/details/42024447)
+ - [å®¹èŠ³å¿—(ios)](http://blog.csdn.net/totogo2010)
+ - [mchdba(æ•°æ®åº“)](http://blog.csdn.net/mchdba)
+ - [ä¸€å¶é£˜èˆŸ(Android)](http://blog.csdn.net/jdsjlzx/article/details/42024447)
 
 
 
 
-### Android Ñ§Ï°µ¼º½
+### Android å­¦ä¹ å¯¼èˆª
 
 - [android-open-project(Trinea)](https://github.com/Trinea/android-open-project)
-- [android-open-project-demo(¿ªÔ´ÏîÄ¿Demo)](https://github.com/android-cn/android-open-project-demo) 
-- [MaterialDesign(Material°¸Àı´óÈ«)](https://github.com/lightSky/Awesome-MaterialDesign)
+- [android-open-project-demo(å¼€æºé¡¹ç›®Demo)](https://github.com/android-cn/android-open-project-demo) 
+- [MaterialDesign(Materialæ¡ˆä¾‹å¤§å…¨)](https://github.com/lightSky/Awesome-MaterialDesign)
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 - [awesome-android](https://github.com/snowdream/awesome-android)
-- [android ³£ÓÃ¿â(CSDN)](http://blog.csdn.net/xxmbaobao1/article/details/44038197) 
-- [AndroidÔ´ÂëÉè¼ÆÄ£Ê½](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis) 
+- [android å¸¸ç”¨åº“(CSDN)](http://blog.csdn.net/xxmbaobao1/article/details/44038197) 
+- [Androidæºç è®¾è®¡æ¨¡å¼](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis) 
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance ) 
 - [awesome-android](https://github.com/JStumpp/awesome-android )
 - [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries) 
 - [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
 - [android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese)
-- [The Busy Coder's Guide to Andriod Development(Êé¼®+Ô´Âë)](https://github.com/commonsguy/cw-omnibus)
-- [openproject(githubÓÃ»§)](https://github.com/openproject)
-- [ÕûÀíµÄandroid¿ª·¢×ÊÔ´](http://www.stormzhang.com/android/2014/06/05/android-awesome-resources/)
-- [ÎÒÊÇÈçºÎ×ÔÑ§Android£¬×ÊÁÏ·ÖÏí£¨2015 °æ£©](http://www.kuqin.com/shuoit/20150211/344798.html)
-- [awesome-resources(android³ÁË¼Â¼)](http://yeungeek.com/awesome-resources/  )
-- [androidÑ§Ï°Ö®Â·](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
-- [(MDCC¼¼Êõ´ó¿§Ğã)AndroidÄÚ´æÓÅ»¯Ö®OOM](http://www.csdn.net/article/2015-09-18/2825737/1#0-tsina-1-84552-397232819ff9a47a7b7e80a40613cfe1)
+- [The Busy Coder's Guide to Andriod Development(ä¹¦ç±+æºç )](https://github.com/commonsguy/cw-omnibus)
+- [openproject(githubç”¨æˆ·)](https://github.com/openproject)
+- [æ•´ç†çš„androidå¼€å‘èµ„æº](http://www.stormzhang.com/android/2014/06/05/android-awesome-resources/)
+- [æˆ‘æ˜¯å¦‚ä½•è‡ªå­¦Androidï¼Œèµ„æ–™åˆ†äº«ï¼ˆ2015 ç‰ˆï¼‰](http://www.kuqin.com/shuoit/20150211/344798.html)
+- [awesome-resources(androidæ²‰æ€å½•)](http://yeungeek.com/awesome-resources/  )
+- [androidå­¦ä¹ ä¹‹è·¯](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+- [(MDCCæŠ€æœ¯å¤§å’–ç§€)Androidå†…å­˜ä¼˜åŒ–ä¹‹OOM](http://www.csdn.net/article/2015-09-18/2825737/1#0-tsina-1-84552-397232819ff9a47a7b7e80a40613cfe1)
 - [Material Design Theme UI](https://github.com/qiujuer/Genius-Android )
 - [AndroidCommon](https://github.com/Trinea/AndroidCommon)
 - [coursera-android](https://github.com/aporter/coursera-android/tree/master/Examples)
 - [android-demos](https://github.com/novoda/android-demos) 
 - [Android related examples](https://github.com/hmkcode/Android)
-- [ËüÈË¶©ÔÄµÄÅ£ÈË²©¿Í](https://github.com/Gracker/Rss-IT)
-- [2014 ×Ü½áºÍ 2015 Õ¹Íû](https://github.com/aosp-exchange-group/fuck-2014-flirt-2015)
-- [googlesamples(googles¿ª·¢µÄsample)](https://github.com/googlesamples?page=1)
+- [å®ƒäººè®¢é˜…çš„ç‰›äººåšå®¢](https://github.com/Gracker/Rss-IT)
+- [2014 æ€»ç»“å’Œ 2015 å±•æœ›](https://github.com/aosp-exchange-group/fuck-2014-flirt-2015)
+- [googlesamples(googleså¼€å‘çš„sample)](https://github.com/googlesamples?page=1)
 
 
 
-### Android ´úÂë¿â
+### Android ä»£ç åº“
 
-- [°²×¿°ÍÊ¿](http://www.apkbus.com/forum-417-1.html)
+- [å®‰å“å·´å£«](http://www.apkbus.com/forum-417-1.html)
 - [Arsenal](http://android-arsenal.com/  ) 
 - [AndroidLibraries](http://alamkanak.github.io/android-libraries-and-resources/)
 - [Android-Gems](http://www.android-gems.com/category )
@@ -89,234 +92,234 @@
 - [Devstore](http://www.devstore.cn/ ) 
 - [android-nice-repo](http://dusunboy.github.io/android-nice-repo/)
 - [apkdemo](http://apkdemo.com/) 
-- [ÑôºÍÒÆ¶¯¿ª·¢](http://www.mobile-open.com/ ) 
+- [é˜³å’Œç§»åŠ¨å¼€å‘](http://www.mobile-open.com/ ) 
 - [23Code](http://www.23code.com/)
 - [f-droid](https://f-droid.org/repository/browse/?fdid=com.amaze.filemanager) 
-- [Ô´ÂëÌìÌÃ](http://code.662p.com/list/11_1.html )
-- [°®¿ª·¢](http://www.akaifa.com/code/category/86/System)
-- [ÅİÔÚÍøÉÏµÄÈÕ×Ó](http://www.jcodecraeer.com/)
-- [À¶±ªÔ´Âë](http://www.itlanbao.com/codes.aspx#1,0 )
-- [A5Ô´Âë](http://down.admin5.com/android/ )
-- [Ô´ÂëÌìÌÃ](http://code.662p.com/list/11_1.html )
+- [æºç å¤©å ‚](http://code.662p.com/list/11_1.html )
+- [çˆ±å¼€å‘](http://www.akaifa.com/code/category/86/System)
+- [æ³¡åœ¨ç½‘ä¸Šçš„æ—¥å­](http://www.jcodecraeer.com/)
+- [è“è±¹æºç ](http://www.itlanbao.com/codes.aspx#1,0 )
+- [A5æºç ](http://down.admin5.com/android/ )
+- [æºç å¤©å ‚](http://code.662p.com/list/11_1.html )
 
 
 
-### Java¼¼Êõ
+### JavaæŠ€æœ¯
 
 - [maven-framework-project](https://github.com/sxyx2008/maven-framework-project)
-- [datastructure(Ëã·¨Éè¼Æ)](https://github.com/buptdavid/datastructure)
+- [datastructure(ç®—æ³•è®¾è®¡)](https://github.com/buptdavid/datastructure)
 - [spring-framework](https://github.com/spring-projects/spring-framework)
-- [Git½Ì³Ì(ÁÎÑ©·å)](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
-- [Ãâ·ÑµÄ¼ÆËã»ú±à³ÌÀàÖĞÎÄÊé¼®](https://github.com/justjavac/free-programming-books-zh_CN)
-- [Material Design ÖĞÎÄĞ­Í¬·­Òë](https://github.com/1sters/material_design_zh)
-- [²©¿ÍHexoÖ÷Ìâ](https://github.com/wuchong/jacman)
-- [²©¿ÍHexoÖ÷Ìâ(È«)](https://github.com/hexojs/hexo/wiki/Themes)
-- [JavaÑ§Ï°Íø](http://www.javaweb.cc/)
-- [Java¿ª·¢ÖĞµÄ23ÖÖÉè¼ÆÄ£Ê½Ïê½â](http://zz563143188.iteye.com/blog/1847029)
-- [Android Ô´ÂëÉè¼ÆÄ£Ê½](http://www.cnblogs.com/qianxudetianxia/archive/2011/07/29/2121488.html)
+- [Gitæ•™ç¨‹(å»–é›ªå³°)](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
+- [å…è´¹çš„è®¡ç®—æœºç¼–ç¨‹ç±»ä¸­æ–‡ä¹¦ç±](https://github.com/justjavac/free-programming-books-zh_CN)
+- [Material Design ä¸­æ–‡ååŒç¿»è¯‘](https://github.com/1sters/material_design_zh)
+- [åšå®¢Hexoä¸»é¢˜](https://github.com/wuchong/jacman)
+- [åšå®¢Hexoä¸»é¢˜(å…¨)](https://github.com/hexojs/hexo/wiki/Themes)
+- [Javaå­¦ä¹ ç½‘](http://www.javaweb.cc/)
+- [Javaå¼€å‘ä¸­çš„23ç§è®¾è®¡æ¨¡å¼è¯¦è§£](http://zz563143188.iteye.com/blog/1847029)
+- [Android æºç è®¾è®¡æ¨¡å¼](http://www.cnblogs.com/qianxudetianxia/archive/2011/07/29/2121488.html)
 - [java-design](https://github.com/iluwatar/java-design-patterns)
-- [Éè¼ÆÖ®ìøÔ´Âë](https://github.com/nivance/DPModel)
-- [´ó»°Éè¼ÆÄ£Ê½Ô´Âë](https://github.com/clarck/DesignPatterns)
+- [è®¾è®¡ä¹‹ç¦…æºç ](https://github.com/nivance/DPModel)
+- [å¤§è¯è®¾è®¡æ¨¡å¼æºç ](https://github.com/clarck/DesignPatterns)
 
 
 
 
-### ÔÚÏßÎÄµµ
+### åœ¨çº¿æ–‡æ¡£
 
-- [android api Ó¢ÎÄÎÄµµ](http://android.xsoftlab.net/reference/packages.html)
-- [android api ÖĞÎÄÎÄµµ](http://www.android-doc.com/reference/packages.html)
-- [android Ô´Âë](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/)
+- [android api è‹±æ–‡æ–‡æ¡£](http://android.xsoftlab.net/reference/packages.html)
+- [android api ä¸­æ–‡æ–‡æ¡£](http://www.android-doc.com/reference/packages.html)
+- [android æºç ](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/)
 - [Java1.6 api](http://www.yq1012.com/api/)
-- [Java°ïÖúÎÄµµ](http://www.javaweb.cc/help/JavaAPI1.6/)
-- [²¦ÔÆ¼û](http://www.boyunjian.com/do/baike/s.do?&category=3006)
+- [Javaå¸®åŠ©æ–‡æ¡£](http://www.javaweb.cc/help/JavaAPI1.6/)
+- [æ‹¨äº‘è§](http://www.boyunjian.com/do/baike/s.do?&category=3006)
 - [gradle user guide](https://docs.gradle.org/current/userguide/userguide.html)
-- [¼¼Êõapi´óÈ«](http://doc.gotomao.com/)
-- [MavenÒÀÀµ°ü²éÑ¯1](https://repository.sonatype.org/)
-- [MavenÒÀÀµ°ü²éÑ¯2](http://maven.outofmemory.cn/)
-- [jarfire(jar°üÏÂÔØ)](http://cn.jarfire.org/)
-- [APIÖ®¼Ò](http://www.apihome.cn/api/android/SQLiteDatabase.html)
+- [æŠ€æœ¯apiå¤§å…¨](http://doc.gotomao.com/)
+- [Mavenä¾èµ–åŒ…æŸ¥è¯¢1](https://repository.sonatype.org/)
+- [Mavenä¾èµ–åŒ…æŸ¥è¯¢2](http://maven.outofmemory.cn/)
+- [jarfire(jaråŒ…ä¸‹è½½)](http://cn.jarfire.org/)
+- [APIä¹‹å®¶](http://www.apihome.cn/api/android/SQLiteDatabase.html)
 
 
-### ÔÚÏß½Ì³Ì
+### åœ¨çº¿æ•™ç¨‹
 
-- [Ò×°Ù½Ì³Ì](http://www.yiibai.com/)
+- [æ˜“ç™¾æ•™ç¨‹](http://www.yiibai.com/)
 - [w3school](http://www.w3school.com.cn/index.html)
-- [ÊµÑéÂ¥](https://www.shiyanlou.com/)
-- [»ãÖÇÍø](http://www.hubwiz.com/)
+- [å®éªŒæ¥¼](https://www.shiyanlou.com/)
+- [æ±‡æ™ºç½‘](http://www.hubwiz.com/)
 - [fenby](http://www.fenby.com/courses/)
-- [Ï£ÈüÍø](http://www.educity.cn/shipin/)
-- [lintcode(ÔÚÏßÌâ¿â)](http://www.lintcode.com/zh-cn/problem/)
-- [ÂëÅ©¹È(ÔÚÏß±à³Ì)](http://cn.jarfire.org/)http://www.manonggu.com/biancheng/)
-- [Å£¿ÍÍø(ÔÚÏß±ÊÊÔ)](http://www.nowcoder.com/481450)
-- [mianwww(ÔÚÏß±ÊÊÔ)](http://www.mianwww.com/html/category/it-interview/android)
-- [¼ÆËâ¿Í](http://www.jisuanke.com/course#verified)
-- [SQL½Ì³Ì](https://www.1keydata.com/cn/sql/)
-- [²ËÄñ½Ì³Ì](http://www.runoob.com/)
-- [ExtJs¹ÙÍø](http://extjs.org.cn/)
-- [WEB¿ª·¢»ù´¡×î¼ÑÊµ¼ùÊÖ²á](http://wf.uisdc.com/cn/input/form-input/choose-the-best-input-type.html)
+- [å¸Œèµ›ç½‘](http://www.educity.cn/shipin/)
+- [lintcode(åœ¨çº¿é¢˜åº“)](http://www.lintcode.com/zh-cn/problem/)
+- [ç å†œè°·(åœ¨çº¿ç¼–ç¨‹)](http://cn.jarfire.org/)http://www.manonggu.com/biancheng/)
+- [ç‰›å®¢ç½‘(åœ¨çº¿ç¬”è¯•)](http://www.nowcoder.com/481450)
+- [mianwww(åœ¨çº¿ç¬”è¯•)](http://www.mianwww.com/html/category/it-interview/android)
+- [è®¡è’œå®¢](http://www.jisuanke.com/course#verified)
+- [SQLæ•™ç¨‹](https://www.1keydata.com/cn/sql/)
+- [èœé¸Ÿæ•™ç¨‹](http://www.runoob.com/)
+- [ExtJså®˜ç½‘](http://extjs.org.cn/)
+- [WEBå¼€å‘åŸºç¡€æœ€ä½³å®è·µæ‰‹å†Œ](http://wf.uisdc.com/cn/input/form-input/choose-the-best-input-type.html)
 
 
-### ÔÚÏßÊÓÆµ
+### åœ¨çº¿è§†é¢‘
 
-- [Ä½¿ÎÍø](http://www.imooc.com/)
-- [¼«¿ÍÑ§Ôº](http://www.jikexueyuan.com/course/android/1-3-0/)
-- [Âó×ÓÑ§Ôº](http://www.maiziedu.com/course/list/?catagory=Android&career=all&sort_by=)
-- [°®¿áÑ§Ï°Íø](http://www.icoolxue.com/album/affix/view/android/1/8?orderBy=create_time)
-- [²©Ñ§¹È](http://dvd.boxuegu.com/)
-- [ÓÅ²ÅÑ§Ôº](http://www.ucai.cn/index)
-- [ÔÆÂ·Íø](http://www.yun.lu/student/course/list/6)
-- [ÍøÒ×ÔÆ¿ÎÌÃ](http://study.163.com/find.htm#/courselist?ct=8)
-- [¹«¿ª¿Î](http://gkk.cn/)
-- [ĞÂÀË¹«¿ª¿Î](http://open.sina.com.cn/discipline/id_13/)
-- [²ËÄñÎÑ](http://www.cniao5.com/course/)
+- [æ…•è¯¾ç½‘](http://www.imooc.com/)
+- [æå®¢å­¦é™¢](http://www.jikexueyuan.com/course/android/1-3-0/)
+- [éº¦å­å­¦é™¢](http://www.maiziedu.com/course/list/?catagory=Android&career=all&sort_by=)
+- [çˆ±é…·å­¦ä¹ ç½‘](http://www.icoolxue.com/album/affix/view/android/1/8?orderBy=create_time)
+- [åšå­¦è°·](http://dvd.boxuegu.com/)
+- [ä¼˜æ‰å­¦é™¢](http://www.ucai.cn/index)
+- [äº‘è·¯ç½‘](http://www.yun.lu/student/course/list/6)
+- [ç½‘æ˜“äº‘è¯¾å ‚](http://study.163.com/find.htm#/courselist?ct=8)
+- [å…¬å¼€è¯¾](http://gkk.cn/)
+- [æ–°æµªå…¬å¼€è¯¾](http://open.sina.com.cn/discipline/id_13/)
+- [èœé¸Ÿçª](http://www.cniao5.com/course/)
 
 
-### ÄÚ²à·¢²¼
+### å†…ä¾§å‘å¸ƒ
 
-- [ÆÑ¹«Ó¢](http://www.pgyer.com/)
+- [è’²å…¬è‹±](http://www.pgyer.com/)
 - [fir](http://fir.im/)
 
 
-### ¼¼ÊõÃûÕ¾-Android
+### æŠ€æœ¯åç«™-Android
 
 - [Androidweekly](http://androidweekly.net/)
-- [¿ª·¢¼¼ÊõÇ°Ïß](http://www.devtf.cn/)
-- [ÂëÅ©Íø](http://www.codeceo.com/)
+- [å¼€å‘æŠ€æœ¯å‰çº¿](http://www.devtf.cn/)
+- [ç å†œç½‘](http://www.codeceo.com/)
 - [51cto](http://mobile.51cto.com/android/)
-- [androidÑ§Ï°Íø](http://www.android-study.com/)
+- [androidå­¦ä¹ ç½‘](http://www.android-study.com/)
 - [it985](http://blog.it985.com/category/android)
 - [vogella](http://www.vogella.com/tutorials/android.html)
-- [²®ÀÖÔÚÏß](http://blog.jobbole.com/)
+- [ä¼¯ä¹åœ¨çº¿](http://blog.jobbole.com/)
 - [codecloud](http://codecloud.net/)
-- [²©¿ÍÔ°](http://www.cnblogs.com/)
-- [Ñ§UIÍø](http://www.xueui.cn/category/experience/app-experience)
-- [Android×¨Çø](http://www.oschina.net/android)
-- [¸É»õ¼¯ÖĞÓª](http://gank.io/2015/10/15)
+- [åšå®¢å›­](http://www.cnblogs.com/)
+- [å­¦UIç½‘](http://www.xueui.cn/category/experience/app-experience)
+- [Androidä¸“åŒº](http://www.oschina.net/android)
+- [å¹²è´§é›†ä¸­è¥](http://gank.io/2015/10/15)
 - [ndroidchina](http://www.androidchina.net/)
 - [stormzhang](http://stormzhang.com/posts/)
-- [eoeÉçÇø](http://www.eoeandroid.com/topic-demo.html)
-- [Phonegap100(ÒÆ¶¯WebÁìÓò)](http://www.phonegap100.com/)
+- [eoeç¤¾åŒº](http://www.eoeandroid.com/topic-demo.html)
+- [Phonegap100(ç§»åŠ¨Webé¢†åŸŸ)](http://www.phonegap100.com/)
 
-### ¼¼ÊõÃûÕ¾-Java
+### æŠ€æœ¯åç«™-Java
 
-- [¿ªÔ´ÖĞ¹ú](http://www.oschina.net/)
+- [å¼€æºä¸­å›½](http://www.oschina.net/)
 - [open-open](http://www.open-open.com/)
-- [divcss5(ÍøÒ³²¼¾Ö)](http://www.divcss5.com/)
+- [divcss5(ç½‘é¡µå¸ƒå±€)](http://www.divcss5.com/)
 - [HTML5](http://www.html5cn.org/)
-- [¿ì¿ÎÍø](http://www.cricode.com/2022.html)
-- [ÍÆ¿á](http://www.tuicool.com/search?t=1&kw=ScrollView&lang=1&pn=1)
-- [³ÌĞòÔ±Ö®¼Ò](http://bbs.it-home.org/)
-- [¿áÇÚÍø](http://www.kuqin.com/pragmatic/)
-- [Æ´Îá°®(µç×ÓÊé)](http://www.pin5i.com/)
-- [²úÆ·Ô­ĞÍÉè¼Æ](http://www.webppd.com/index.html)
-- [code4app(IOSÃûÕ¾)](http://code4app.com/category/networking?sort=1)
-- [cocoachina(IOSÃûÕ¾)](http://code.cocoachina.com/)
+- [å¿«è¯¾ç½‘](http://www.cricode.com/2022.html)
+- [æ¨é…·](http://www.tuicool.com/search?t=1&kw=ScrollView&lang=1&pn=1)
+- [ç¨‹åºå‘˜ä¹‹å®¶](http://bbs.it-home.org/)
+- [é…·å‹¤ç½‘](http://www.kuqin.com/pragmatic/)
+- [æ‹¼å¾çˆ±(ç”µå­ä¹¦)](http://www.pin5i.com/)
+- [äº§å“åŸå‹è®¾è®¡](http://www.webppd.com/index.html)
+- [code4app(IOSåç«™)](http://code4app.com/category/networking?sort=1)
+- [cocoachina(IOSåç«™)](http://code.cocoachina.com/)
 - [bootcss](http://www.bootcss.com/)
-- [Ç°¶Ë¿ª·¢css88](http://www.css88.com/)
-- [Ç°¶ËÀï](http://www.yyyweb.com/)
-- [Web¿ª·¢](http://www.admin10000.com/)
+- [å‰ç«¯å¼€å‘css88](http://www.css88.com/)
+- [å‰ç«¯é‡Œ](http://www.yyyweb.com/)
+- [Webå¼€å‘](http://www.admin10000.com/)
 - [ourjs](http://ourjs.com/)
 
 
 
-### ¿ª·¢ÊÓÆµ
+### å¼€å‘è§†é¢‘
 
-- [ÀÏÂŞAndroidÊÓÆµ[ÏêÏ¸°æ]È«¼¯·ÖÏí](  http://tw.gigacircle.com/jiokeji?r=15144http://talang.400gb.com/ )
-- [Sundy's ¡¶AndroidÉîÈëÇ³³ö¡·¡¶Android¸ß¼¶Ó¦ÓÃ¡·¡¶Android¿ª·¢ÊÓÆµ½Ì³Ì¡·](http://www.verycd.com/topics/2900036/)
-- [mars AndroidÊÓÆµÈ«¼¯](http://mars.apkbus.com/)
+- [è€ç½—Androidè§†é¢‘[è¯¦ç»†ç‰ˆ]å…¨é›†åˆ†äº«](  http://tw.gigacircle.com/jiokeji?r=15144http://talang.400gb.com/ )
+- [Sundy's ã€ŠAndroidæ·±å…¥æµ…å‡ºã€‹ã€ŠAndroidé«˜çº§åº”ç”¨ã€‹ã€ŠAndroidå¼€å‘è§†é¢‘æ•™ç¨‹ã€‹](http://www.verycd.com/topics/2900036/)
+- [mars Androidè§†é¢‘å…¨é›†](http://mars.apkbus.com/)
 
 
-### ´úÂëÍĞ¹Ü
+### ä»£ç æ‰˜ç®¡
 
 - [Gitlab](https://gitlab.com/)
 - [Github](https://github.com/)
-- [coding´úÂëÑİÊ¾Æ½Ì¨](https://coding.net/help/doc/paas/getting-started.html)
-- [TaoCode(°¢ÀïÔÆSVNÍĞ¹ÜÆ½Ì¨)](http://code.taobao.org/project/explore/)
-- [CSDN´úÂëÍĞ¹Ü](https://code.csdn.net/dashboard/index)
+- [codingä»£ç æ¼”ç¤ºå¹³å°](https://coding.net/help/doc/paas/getting-started.html)
+- [TaoCode(é˜¿é‡Œäº‘SVNæ‰˜ç®¡å¹³å°)](http://code.taobao.org/project/explore/)
+- [CSDNä»£ç æ‰˜ç®¡](https://code.csdn.net/dashboard/index)
 - [Bitbucket](https://bitbucket.org/)
-- [¿ªÔ´ÖĞ¹úÍĞ¹Ü-ÂëÔÆ](http://git.oschina.net/)
+- [å¼€æºä¸­å›½æ‰˜ç®¡-ç äº‘](http://git.oschina.net/)
 - [svn999](http://www.svn999.com/index.php/Home/Index/product.html)
 - [jundie-svn](http://svn.jundie.net/Help/detail/70)
-- [mopassÔÆ](http://www.mopaas.com/pay.jsp)
-- [SVN ÔÚÏß´úÂëÍĞ¹Ü¹¤¾ß](http://blog.csdn.net/sunboy_2050/article/details/8142920)
+- [mopassäº‘](http://www.mopaas.com/pay.jsp)
+- [SVN åœ¨çº¿ä»£ç æ‰˜ç®¡å·¥å…·](http://blog.csdn.net/sunboy_2050/article/details/8142920)
 
 
 
-### ÔÚÏß¹¤¾ß
+### åœ¨çº¿å·¥å…·
 
-- [tool-ÔÚÏß¹¤¾ß](http://tool.lu/c/developer)
-- [atool-HttpÔÚÏß²âÊÔ](http://www.atool.org/httptest.php)
-- [sojson-JSONÔÚÏß½âÎö](http://www.sojson.com/)
-- [parser-JSONÔÚÏß½âÎö](http://json.parser.online.fr/)
-- [°Ù¶Èapiµ÷ÊÔ](http://apistore.baidu.com/astore/toolshttpproxy?apiId=usi-xQ&isAworks=1)
-- [Ô³¹¤¾ß(ÑÕÉ«)](http://www.yuangongju.com/color)
-- [-°¢ÀïÍ¼±ê(Ãâ·ÑµÄÍ¼±êÏÂÔØ)-](http://iconfont.cn/repositories)
-- [easyiconÍ¼±ê](http://www.easyicon.net/)
-- [google¾µÏñ1](http://www.itechzero.com/google-mirror-sites-collect.html)
-- [ÀÏD²©¿Í-google¾µÏñ](http://laod.cn/hosts)
-- [Html5¼æÈİĞÔ²éÑ¯](http://caniuse.com/#search=date)
-
-
-### ÒÆ¶¯·şÎñ
-
-- [°¢ÀïÔÆÒÆ¶¯²âÊÔÖĞĞÄ-²âÊÔ](http://mqc.aliyun.com/?spm=0.0.0.0.xVlGQN)
-- [ÔÆ²â testin-²âÊÔ](http://www.testin.cn/)
-- [ÓÅ²â-²âÊÔ](http://utest.qq.com/)
-- [°®¼ÓÃÜ(°²È«)](http://www.ijiami.cn/AppProtect)
-- [°ğ°ğ¼ÓÃÜ(°²È«)](http://www.bangcle.com/login/?next=/app/member_upload/)
+- [tool-åœ¨çº¿å·¥å…·](http://tool.lu/c/developer)
+- [atool-Httpåœ¨çº¿æµ‹è¯•](http://www.atool.org/httptest.php)
+- [sojson-JSONåœ¨çº¿è§£æ](http://www.sojson.com/)
+- [parser-JSONåœ¨çº¿è§£æ](http://json.parser.online.fr/)
+- [ç™¾åº¦apiè°ƒè¯•](http://apistore.baidu.com/astore/toolshttpproxy?apiId=usi-xQ&isAworks=1)
+- [çŒ¿å·¥å…·(é¢œè‰²)](http://www.yuangongju.com/color)
+- [-é˜¿é‡Œå›¾æ ‡(å…è´¹çš„å›¾æ ‡ä¸‹è½½)-](http://iconfont.cn/repositories)
+- [easyiconå›¾æ ‡](http://www.easyicon.net/)
+- [googleé•œåƒ1](http://www.itechzero.com/google-mirror-sites-collect.html)
+- [è€Dåšå®¢-googleé•œåƒ](http://laod.cn/hosts)
+- [Html5å…¼å®¹æ€§æŸ¥è¯¢](http://caniuse.com/#search=date)
 
 
-### ÎÒµÄÏÂÔØ
+### ç§»åŠ¨æœåŠ¡
+
+- [é˜¿é‡Œäº‘ç§»åŠ¨æµ‹è¯•ä¸­å¿ƒ-æµ‹è¯•](http://mqc.aliyun.com/?spm=0.0.0.0.xVlGQN)
+- [äº‘æµ‹ testin-æµ‹è¯•](http://www.testin.cn/)
+- [ä¼˜æµ‹-æµ‹è¯•](http://utest.qq.com/)
+- [çˆ±åŠ å¯†(å®‰å…¨)](http://www.ijiami.cn/AppProtect)
+- [æ¢†æ¢†åŠ å¯†(å®‰å…¨)](http://www.bangcle.com/login/?next=/app/member_upload/)
+
+
+### æˆ‘çš„ä¸‹è½½
 
 - [JDK](http://www.oracle.com/index.html)
-- [androiddevtools(android¿ª·¢»·¾³¼¯³É)](http://www.androiddevtools.cn/)
+- [androiddevtools(androidå¼€å‘ç¯å¢ƒé›†æˆ)](http://www.androiddevtools.cn/)
 - [eclipse](http://www.eclipse.org/home/index.php)
-- [svn eclipse²å¼şÔÚÏß¸üĞÂµØÖ·](http://subclipse.tigris.org/update_1.10.x)
+- [svn eclipseæ’ä»¶åœ¨çº¿æ›´æ–°åœ°å€](http://subclipse.tigris.org/update_1.10.x)
 - [tomcat](http://tomcat.apache.org/)
 - [apache-commons](http://commons.apache.org/)
-- [eclipse tomcat²å¼ş](http://www.eclipsetotale.com/tomcatPlugin.html#A3)
-- [eclipse Ö÷ÌâÑÕÉ«](http://eclipse-color-theme.github.com/update/)
+- [eclipse tomcatæ’ä»¶](http://www.eclipsetotale.com/tomcatPlugin.html#A3)
+- [eclipse ä¸»é¢˜é¢œè‰²](http://eclipse-color-theme.github.com/update/)
 - [Maven](http://maven.apache.org/download.cgi#Installation)
 - [Gradle](http://gradle.org/gradle-download/  )
-- [°¢ÅÁÆæ¼Ü°ü](http://repo1.maven.org/maven2//commons-lang/commons-lang/)
-- [git window°æ](http://git-scm.com/download/win)
+- [é˜¿å¸•å¥‡æ¶åŒ…](http://repo1.maven.org/maven2//commons-lang/commons-lang/)
+- [git windowç‰ˆ](http://git-scm.com/download/win)
 - [navicat-for-mysql](http://www.navicat.com/download/navicat-for-mysql)
-- [navicat-for-mysqlÆÆ½â°æ](http://download.csdn.net/detail/ahgaoyong/8374803)
+- [navicat-for-mysqlç ´è§£ç‰ˆ](http://download.csdn.net/detail/ahgaoyong/8374803)
 - [mysql](http://dev.mysql.com/downloads/mysql/)
-- [GenymotionÄ£ÄâÆ÷](http://www.genymotion.net/)
+- [Genymotionæ¨¡æ‹Ÿå™¨](http://www.genymotion.net/)
 - [virtualbox](https://www.virtualbox.org/wiki/Downloads)
 - [mongodb](http://www.mongodb.org/downloads )
-- [Redis](https://github.com/dmajkic/redis/downloads¡£)
+- [Redis](https://github.com/dmajkic/redis/downloadsã€‚)
 - [Tigase](https://projects.tigase.org/projects/tigase-server/files)
-- [MDÔÄ¶ÁÆ÷](http://download.csdn.net/download/wang_jun_hua/7926441)
-- [Axure RP 7.0ÏÂÔØ](http://www.webppd.com/index.php)
-- [½ØÍ¼ÀûÆ÷-¹ö¶¯½ØÍ¼FSCapture](http://download.csdn.net/detail/qingfeng812/9138969)
-- [ÑĞÄ¥Éè¼ÆÔ´Âë](http://download.csdn.net/detail/qingfeng812/9053683)
-- [ColorPix_CHS(ÆÁÄ»È¡É«¹¤¾ß)](http://download.csdn.net/detail/qingfeng812/8861691)
-- [²âÁ¿ÆÁÄ»³ß´ç](http://download.csdn.net/detail/qingfeng812/6266027)
-- [icons(Í¼±êÏÂÔØ)](http://www.uisdc.com/category/uiicon/icons)
+- [MDé˜…è¯»å™¨](http://download.csdn.net/download/wang_jun_hua/7926441)
+- [Axure RP 7.0ä¸‹è½½](http://www.webppd.com/index.php)
+- [æˆªå›¾åˆ©å™¨-æ»šåŠ¨æˆªå›¾FSCapture](http://download.csdn.net/detail/qingfeng812/9138969)
+- [ç ”ç£¨è®¾è®¡æºç ](http://download.csdn.net/detail/qingfeng812/9053683)
+- [ColorPix_CHS(å±å¹•å–è‰²å·¥å…·)](http://download.csdn.net/detail/qingfeng812/8861691)
+- [æµ‹é‡å±å¹•å°ºå¯¸](http://download.csdn.net/detail/qingfeng812/6266027)
+- [icons(å›¾æ ‡ä¸‹è½½)](http://www.uisdc.com/category/uiicon/icons)
 
 
-### ÊéÇ©»ã×Ü
+### ä¹¦ç­¾æ±‡æ€»
 
-- [¼«¿Íµ¼º½(Ö÷Á÷¼¼Êõ)](http://www.gogeeks.cn/)
+- [æå®¢å¯¼èˆª(ä¸»æµæŠ€æœ¯)](http://www.gogeeks.cn/)
 - [androiddevtools](http://www.androiddevtools.cn/)
-- [frontend-dev-bookmarks(Ç°¶Ë¿ª·¢ÊéÇ©)](https://github.com/zzxadi/frontend-dev-bookmarks)
-- [hotchpotch_of_iOS_bookmark(IOS¿ª·¢ÊéÇ©)](https://github.com/JRJian/hotchpotch_of_iOS_bookmark)
-- [Learn-Algorithms(Ëã·¨ÊéÇ©)](https://github.com/nonstriater/Learn-Algorithms)
-- [webÇ°¶ËÍøÕ¾ÊÕ²Ø](https://github.com/iamjoel/front-end-note/tree/master/bookmark)
+- [frontend-dev-bookmarks(å‰ç«¯å¼€å‘ä¹¦ç­¾)](https://github.com/zzxadi/frontend-dev-bookmarks)
+- [hotchpotch_of_iOS_bookmark(IOSå¼€å‘ä¹¦ç­¾)](https://github.com/JRJian/hotchpotch_of_iOS_bookmark)
+- [Learn-Algorithms(ç®—æ³•ä¹¦ç­¾)](https://github.com/nonstriater/Learn-Algorithms)
+- [webå‰ç«¯ç½‘ç«™æ”¶è—](https://github.com/iamjoel/front-end-note/tree/master/bookmark)
 - [front-end-collect](https://github.com/foru17/front-end-collect)
-- [Awesome-Android-Architecture(¼Ü¹¹)](https://github.com/Juude/Awesome-Android-Architecture)
+- [Awesome-Android-Architecture(æ¶æ„)](https://github.com/Juude/Awesome-Android-Architecture)
 - [Awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
 - [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)
 - [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)
-- [android ÈÕ³£»ıÀÛ(ÊéÇ©)](https://github.com/lizhangqu/CoreLink) 
-- [Android-Tips(ÊéÇ©)](https://github.com/tangqi92/Android-Tips)
+- [android æ—¥å¸¸ç§¯ç´¯(ä¹¦ç­¾)](https://github.com/lizhangqu/CoreLink) 
+- [Android-Tips(ä¹¦ç­¾)](https://github.com/tangqi92/Android-Tips)
 - [android-dev-bookmarks](https://github.com/Arisono/android-dev-bookmarks)
 - [Android_Data](https://github.com/Freelander/Android_Data)
-- [Android Ñ§Ï°×ÊÁÏÊÕ¼¯(´óÈ«ĞÔÖÊµÄµ¼º½)](https://github.com/Freelander/Android_Data)
-- [²©¿Í×¨¼Ò](https://github.com/android-cn/android-dev-cn )
-- [AndroidNote(ÊéÇ©)](https://github.com/venshine/AndroidNote)
+- [Android å­¦ä¹ èµ„æ–™æ”¶é›†(å¤§å…¨æ€§è´¨çš„å¯¼èˆª)](https://github.com/Freelander/Android_Data)
+- [åšå®¢ä¸“å®¶](https://github.com/android-cn/android-dev-cn )
+- [AndroidNote(ä¹¦ç­¾)](https://github.com/venshine/AndroidNote)
 - [java-learning](https://github.com/brianway/java-learning)
 - [jsoup-learning](https://github.com/code4craft/jsoup-learning)
 - [java-core-learning-example](https://github.com/JeffLi1993/java-core-learning-example)
@@ -326,61 +329,61 @@
 
 
 
-### Android¼Ü¹¹
+### Androidæ¶æ„
 
-- [android-architecture(Android¼Ü¹¹Éè¼ÆºÃ×ÊÁÏ-À´Ô´google)](https://github.com/googlesamples/android-architecture)
+- [android-architecture(Androidæ¶æ„è®¾è®¡å¥½èµ„æ–™-æ¥æºgoogle)](https://github.com/googlesamples/android-architecture)
 
 
-### Android¿ªÔ´¿âAPI
+### Androidå¼€æºåº“API
 
 - [OrmLite](http://ormlite.com/javadoc/ormlite-core/overview-summary.html)
 
 
-### ÅÅĞĞ°ñ
+### æ’è¡Œæ¦œ
 
-- [ÓÑÃËÒÆ¶¯Ö¸Êı](http://www.umindex.com/)
-- [githubÅÅÃûÇ°100µÄandroid¿ªÔ´¿â](http://www.codeceo.com/article/github-top-100-android-libs.html)
-- [githubÈÈÃÅ¼¼Êõ×éÖ¯](https://github-ranking.com/)
-- [appbrain(¿âÊ¹ÓÃÍ³¼ÆÍøÕ¾)](http://www.appbrain.com/stats/libraries/dev)
-
-
-
-
-### ÆäËüÍøÕ¾
-
-- [ÈËÈË¶¼ÊÇ²úÆ·¾­Àí](http://www.woshipm.com/)
-- [ÒÆ¶¯ĞÅÏ¢»¯µÄÄÇĞ©ÊÂ](http://www.yidonghua.com/)
-- [ÀøÖ¾ÖĞ¹ú](http://www.lizhizhongguo.com/)
-- [ÔÄ¶ÁÊ±¼ä](http://www.timetimetime.net/catalog.asp?cate=13)
-- [´´ÒµµÚÒ»²½](http://www.cyone.com.cn/)
-- [IT¾­Àí](http://www.ctocio.com/)
-- [Ğ¡±¾´´Òµ](http://xbcy.3158.cn/)
-- [µÚÒ»ÉÌÒµÍø](http://www.topbiz360.com/)
-- [ÄÏ·½ÖÜÄ©](http://www.infzm.com/)
-- [ÖĞÑĞÍø](http://www.chinairn.com/)
-- [Ö°Òµ¹æ»®](http://www.00190019.com/)
-- [·¿¼ÛÍø](http://sh.fangjia.com/)
-- [°¬ÈğÍø](http://www.iresearch.cn/)
-- [¿ìÕ¾]( http://www.kuaizhan.com/)
-- [Ä«µ¶(Ô­ĞÍÍ¼)](https://modao.cc/signin#settings)
-- [Win8ÏµÍ³Ö®¼Ò](http://www.win8.net/)
-- [ÓêÁÖÄ¾·çWin10](http://www.ylmfwin100.com/)
-- [¶¹¶¹ÏµÍ³(²Ù×÷ÏµÍ³)](http://www.doudouxitong.net/)
-- [ÏµÍ³Ö®¼Ò](http://www.ghost580.com/)
-- [worktile(ÍÅ¶ÓÈÎÎñĞ­×÷)](https://worktile.com/)
+- [å‹ç›Ÿç§»åŠ¨æŒ‡æ•°](http://www.umindex.com/)
+- [githubæ’åå‰100çš„androidå¼€æºåº“](http://www.codeceo.com/article/github-top-100-android-libs.html)
+- [githubçƒ­é—¨æŠ€æœ¯ç»„ç»‡](https://github-ranking.com/)
+- [appbrain(åº“ä½¿ç”¨ç»Ÿè®¡ç½‘ç«™)](http://www.appbrain.com/stats/libraries/dev)
 
 
 
-### ÃÀ¹¤Éè¼Æ
 
-- [Éè¼ÆÊ¦ÍøÖ·µ¼º½](http://www.nav80.com/)
+### å…¶å®ƒç½‘ç«™
+
+- [äººäººéƒ½æ˜¯äº§å“ç»ç†](http://www.woshipm.com/)
+- [ç§»åŠ¨ä¿¡æ¯åŒ–çš„é‚£äº›äº‹](http://www.yidonghua.com/)
+- [åŠ±å¿—ä¸­å›½](http://www.lizhizhongguo.com/)
+- [é˜…è¯»æ—¶é—´](http://www.timetimetime.net/catalog.asp?cate=13)
+- [åˆ›ä¸šç¬¬ä¸€æ­¥](http://www.cyone.com.cn/)
+- [ITç»ç†](http://www.ctocio.com/)
+- [å°æœ¬åˆ›ä¸š](http://xbcy.3158.cn/)
+- [ç¬¬ä¸€å•†ä¸šç½‘](http://www.topbiz360.com/)
+- [å—æ–¹å‘¨æœ«](http://www.infzm.com/)
+- [ä¸­ç ”ç½‘](http://www.chinairn.com/)
+- [èŒä¸šè§„åˆ’](http://www.00190019.com/)
+- [æˆ¿ä»·ç½‘](http://sh.fangjia.com/)
+- [è‰¾ç‘ç½‘](http://www.iresearch.cn/)
+- [å¿«ç«™]( http://www.kuaizhan.com/)
+- [å¢¨åˆ€(åŸå‹å›¾)](https://modao.cc/signin#settings)
+- [Win8ç³»ç»Ÿä¹‹å®¶](http://www.win8.net/)
+- [é›¨æ—æœ¨é£Win10](http://www.ylmfwin100.com/)
+- [è±†è±†ç³»ç»Ÿ(æ“ä½œç³»ç»Ÿ)](http://www.doudouxitong.net/)
+- [ç³»ç»Ÿä¹‹å®¶](http://www.ghost580.com/)
+- [worktile(å›¢é˜Ÿä»»åŠ¡åä½œ)](https://worktile.com/)
+
+
+
+### ç¾å·¥è®¾è®¡
+
+- [è®¾è®¡å¸ˆç½‘å€å¯¼èˆª](http://www.nav80.com/)
 - [ui4app](http://ui4app.com/category/button)
 - [25xt](http://www.25xt.com/works/appdesign)
 - [popapp](https://popapp.in/)
 - [justinmind.](http://www.justinmind.com.cn/)
 
 
-### Ó¢ÎÄÍøÕ¾
+### è‹±æ–‡ç½‘ç«™
 
 - [stackoverflow](http://stackoverflow.com/)
 - [CodeProject](http://www.codeproject.com/?cat=22)
@@ -388,14 +391,14 @@
 - [ycombinator](https://news.ycombinator.com/news)
 
 
-### ´úÂëÑİÊ¾
+### ä»£ç æ¼”ç¤º
 
-- [coding(ÍÆ¼ö)](https://coding.net/)
+- [coding(æ¨è)](https://coding.net/)
 - [git osc paas](http://www.oschina.net/news/55968/git-osc-paas)
 - [mopaas](http://www.oschina.net/news/55994/oschina-paas-platform-with-mopaas)
 
 
-### ÃæÊÔ×ÊÁÏ
+### é¢è¯•èµ„æ–™
 
 - [Java-gitbooks](https://dongchuan.gitbooks.io/java-interview-question/content/java/the_difference_between_static_variables_and_instance_variables.html)
 

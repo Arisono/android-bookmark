@@ -1,6 +1,9 @@
 ## 目录
-
-   [TOC]
+    
+  公告通知：
+  笔记已经迁移到gitbook：[点击](https://www.gitbook.com/book/androidnotes/android/details)|更体系化的知识笔记正在更新...
+  
+  [TOC]
 
 ### Android大神
 

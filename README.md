@@ -2,9 +2,8 @@
     
   公告通知：
   笔记已经迁移到gitbook：[点击](https://www.gitbook.com/book/androidnotes/android/details)|更体系化的资料正在更新...
-  这里会更新精品资料！
+  这里只展示精品资料！
    
-  [TOC]
 
 ### Android大神
 

@@ -2,6 +2,8 @@
  
 - [Android开发文档一站导航](https://www.zybuluo.com/Arison/note/740237)
 
+# 【第三方平台】
+
 控制|||||||
 -|-|-|-|-|-|-|
 ---|阿里|百度|友盟|微信|腾讯|微博
@@ -15,6 +17,52 @@
 测试|[【MQC】][2]|[【MTC】][3]|[【云测】][4]
 云服务|[【云】][5]|[【云】][6]|||[【云】][7]
 
+
+#Android资料文档
+
+文档|||||||more
+-|-|-|-|-|-|-|
+Android|[API英文][8]|[API中文][9]|[JDK1.6][10]
+Gradle|[API英文][11]|[API中文][12]|[插件指南][13]
+网络|[Okhttp][14]|[Retrofit][15]|[Volley][16]|[Nohttp][17]|[android-async-http][18]|[more][19]
+数据库|[GreenDao][20]|[OrmLite][21]|[sqldelight][22]|[Sugar][23]|[ActiveAndroid][24]|[more][25]
+图片缓存|[glide][26]|[picasso][27]|[fresco][28]|[Android-Universal-Image-Loader][29]
+公共类|[AndroidUtilCode][30]|[Trinea][31]|[litesuits][32]|[android-utils][33]|[h4de5ing][34]|[more][35]
+数据解析|[fastjson][36]|[gson][37]|[org.json][38]
+注解|[androidannotations][39]|[dagger][40]|[butterknife][41]
+异步库|[Rxjava][42]|[EventBus][43]|[otto][44]
+架构|[android-architecture][45]|[Awesome][46]|[Fragmentation][47]|[T-MVP][48]||[more][49]
+组件化与路由|[atlas][50]|[ARouter][51]|[ActivityRouter][52]
+插件化|
+下拉刷新|
+对话框|
+消息提醒|
+红点|
+定时任务|
+选项卡|
+权限|
+插件|
+Git|[廖雪峰][53]
+
+
+# Android网站资源快捷导航
+
+代码库||||||more|
+-|-|-|-|-|-|-|
+一梯队|[github][54]|[ctolib][55]|[android-gems][56] |[gank.io][57] |[codekk][58] 
+二梯队|[fossdroid][59]|[apkbus][60]|[libraries][61]
+三梯队|[diycode][62]|[androidblog][63] 
+**博客**|
+一梯队|[郭霖][64]|[鸿洋][65]||||[more][66]
+二梯队|
+三梯队|[mindorks][67] 
+**周刊**|
+一梯队|[博客周刊][68] |[技术周报][69]|[androidweekly][70]
+二梯队|[frontier][71]|[race604][72]
+**Github**|
+一梯队|[Google][73]|[facebook][74]|[square][75]|[alibaba][76]|[googlesamples][77]
+二梯队|[JakeWharton][78]|[Jesse Wilson][79]|[Trinea][80]|[daimajia][81]|[胡凯][82]|[more][83]
+三梯队|
 
 
   [1]: http://app.baidu.com/apps/?formpos=700101

@@ -1,7 +1,4 @@
-### 说明
- 
-- [Android开发文档一站导航](https://www.zybuluo.com/Arison/note/740237)
-
+# 【+】Android开发资料导航.md
 # 【第三方平台】
 
 控制|||||||
@@ -26,42 +23,51 @@ Android|[API英文][8]|[API中文][9]|[JDK1.6][10]
 Gradle|[API英文][11]|[API中文][12]|[插件指南][13]
 网络|[Okhttp][14]|[Retrofit][15]|[Volley][16]|[Nohttp][17]|[android-async-http][18]|[more][19]
 数据库|[GreenDao][20]|[OrmLite][21]|[sqldelight][22]|[Sugar][23]|[ActiveAndroid][24]|[more][25]
-图片缓存|[glide][26]|[picasso][27]|[fresco][28]|[Android-Universal-Image-Loader][29]
+图片|[glide][26]|[picasso][27]|[fresco][28]|[Android-Universal-Image-Loader][29]
 公共类|[AndroidUtilCode][30]|[Trinea][31]|[litesuits][32]|[android-utils][33]|[h4de5ing][34]|[more][35]
-数据解析|[fastjson][36]|[gson][37]|[org.json][38]
+解析|[fastjson][36]|[gson][37]|[org.json][38]
 注解|[androidannotations][39]|[dagger][40]|[butterknife][41]
 异步库|[Rxjava][42]|[EventBus][43]|[otto][44]
-架构|[android-architecture][45]|[Awesome][46]|[Fragmentation][47]|[T-MVP][48]||[more][49]
-组件化与路由|[atlas][50]|[ARouter][51]|[ActivityRouter][52]
+架构|[android-architecture][45]|[Awesome][46]|[Fragmentation][47]|[T-MVP][48]|[androidmvp][49]|[more][50]
+MVP|[android-mvp-architecture][51]||||||
+组件化|[atlas][52]|[ARouter][53]|[ActivityRouter][54]
 插件化|
-下拉刷新|
-对话框|
-消息提醒|
+**版本**|
+Git|[廖雪峰][55]|[git-tips][56] |
+Gradle|
+Maven|
+GitHub|
+GitLab|
+**UI组件**|
+布局|[androidslidinguppanel][57]|[InboxLayout][58]|[AndroidSwipeLayout][59]|
+刷新|[Android-PullToRefresh][60]|[android-Ultra-Pull-To-Refresh][61]|[BeautifulRefreshLayout][62]|
+侧滑|[MaterialDrawer][63]||
+对话框|[material-dialogs][64]|
+提示|[SuperToasts][65]|[Alerter][66]|[Toasty][67]|
+选项卡|[SmartTabLayout][68]|[PagerSlidingTabStrip][69]|[NavigationTabBar][70]|[FlycoTabLayout][71]|[PagerBottomTabStrip][72]|more|
 红点|
-定时任务|
-选项卡|
+任务|
 权限|
 插件|
-Git|[廖雪峰][53]
 
 
 # 【Android网站资源快捷导航】
 
 代码库||||||more|
 -|-|-|-|-|-|-|
-一梯队|[github][54]|[ctolib][55]|[android-gems][56] |[gank.io][57] |[codekk][58] 
-二梯队|[fossdroid][59]|[apkbus][60]|[libraries][61]
-三梯队|[diycode][62]|[androidblog][63] 
+一梯队|[github][73]|[ctolib][74]|[android-gems][75] |[gank.io][76] |[codekk][77] 
+二梯队|[fossdroid][78]|[apkbus][79]|[libraries][80]
+三梯队|[diycode][81]|[androidblog][82] 
 **博客**|
-一梯队|[郭霖][64]|[鸿洋][65]||||[more][66]
-二梯队|
-三梯队|[mindorks][67] 
+一梯队|[Trinea][83]|[郭霖][84]|[鸿洋][85]|[胡凯][86]|||[more][87]
+二梯队|[刘望舒][88]|[刘桂林][89]|
+三梯队|[mindorks][90] 
 **周刊**|
-一梯队|[博客周刊][68] |[技术周报][69]|[androidweekly][70]
-二梯队|[frontier][71]|[race604][72]
+一梯队|[博客周刊][91] |[技术周报][92]|[androidweekly][93]
+二梯队|[frontier][94]|[race604][95]
 **Github**|
-一梯队|[Google][73]|[facebook][74]|[square][75]|[alibaba][76]|[googlesamples][77]
-二梯队|[JakeWharton][78]|[Jesse Wilson][79]|[Trinea][80]|[daimajia][81]|[胡凯][82]|[more][83]
+一梯队|[Google][96]|[facebook][97]|[square][98]|[alibaba][99]|[googlesamples][100]
+二梯队|[JakeWharton][101]|[Jesse Wilson][102]|[Trinea][103]|[daimajia][104]|[胡凯][105]|[more][106]
 三梯队|
 
 
@@ -113,38 +119,61 @@ Git|[廖雪峰][53]
   [46]: https://github.com/Juude/Awesome-Android-Architecture
   [47]: https://github.com/YoKeyword/Fragmentation
   [48]: https://github.com/north2016/T-MVP
-  [49]: https://github.com/stleary/JSON-java
-  [50]: https://github.com/alibaba/atlas
-  [51]: https://github.com/alibaba/ARouter
-  [52]: https://github.com/mzule/ActivityRouter
-  [53]: https://github.com/alibaba/atlas
-  [54]: https://github.com/
-  [55]: http://www.ctolib.com/categories/android-layout.html
-  [56]: http://www.android-gems.com/category
-  [57]: http://gank.io/history
-  [58]: http://p.codekk.com/
-  [59]: https://fossdroid.com/c/internet/whats_new.html
-  [60]: http://www.apkbus.com/code.php
-  [61]: http://alamkanak.github.io/android-libraries-and-resources/
-  [62]: https://www.diycode.cc/projects
-  [63]: http://www.androidblog.cn/index.php/Source/index/p/1
-  [64]: http://blog.csdn.net/sinyu890807/
-  [65]: http://blog.csdn.net/lmj623565791
-  [66]: https://github.com/Arisono/android-bookmark-shares/tree/master/%E5%A4%A7%E7%A5%9E
-  [67]: https://blog.mindorks.com/@amitshekhar
-  [68]: http://www.androidblog.cn/
-  [69]: http://www.androidweekly.cn/
-  [70]: http://androidweekly.netoidweekly.cn/
-  [71]: http://mobilefrontier.github.ioly.netoidweekly.cn/
-  [72]: https://race604.com/tag/android-weekly/
-  [73]: https://github.com/google
-  [74]: https://www.diycode.cc/developers/facebook
-  [75]: https://www.diycode.cc/developers/square
-  [76]: https://github.com/alibaba
-  [77]: https://github.com/googlesamples
-  [78]: https://github.com/JakeWharton
-  [79]: https://github.com/swankjesse
-  [80]: https://github.com/Trinea/
-  [81]: https://github.com/daimajia
-  [82]: http://hukai.me/
-  [83]: https://github.com/Arisono/android-bookmark-shares/tree/master/%E5%A4%A7%E7%A5%9E
+  [49]: https://github.com/antoniolg/androidmvp/
+  [50]: https://github.com/stleary/JSON-java
+  [51]: https://github.com/MindorksOpenSource/android-mvp-architecture
+  [52]: https://github.com/alibaba/atlas
+  [53]: https://github.com/alibaba/ARouter
+  [54]: https://github.com/mzule/ActivityRouter
+  [55]: https://github.com/alibaba/atlas
+  [56]: https://github.com/521xueweihan/git-tips
+  [57]: https://www.oschina.net/p/androidslidinguppanel
+  [58]: https://github.com/zhaozhentao/InboxLayout
+  [59]: https://github.com/daimajia/AndroidSwipeLayout
+  [60]: https://github.com/chrisbanes/Android-PullToRefresh
+  [61]: https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
+  [62]: https://github.com/android-cjj/BeautifulRefreshLayout
+  [63]: https://github.com/mikepenz/MaterialDrawer
+  [64]: https://github.com/afollestad/material-dialogs
+  [65]: https://github.com/JohnPersano/SuperToasts
+  [66]: https://github.com/Tapadoo/Alerter
+  [67]: https://github.com/GrenderG/Toasty
+  [68]: https://github.com/ogaclejapan/SmartTabLayout
+  [69]: https://github.com/astuetz/PagerSlidingTabStrip
+  [70]: https://github.com/Devlight/NavigationTabBar
+  [71]: https://github.com/H07000223/FlycoTabLayout
+  [72]: https://github.com/tyzlmjj/PagerBottomTabStrip
+  [73]: https://github.com/
+  [74]: http://www.ctolib.com/categories/android-layout.html
+  [75]: http://www.android-gems.com/category
+  [76]: http://gank.io/history
+  [77]: http://p.codekk.com/
+  [78]: https://fossdroid.com/c/internet/whats_new.html
+  [79]: http://www.apkbus.com/code.php
+  [80]: http://alamkanak.github.io/android-libraries-and-resources/
+  [81]: https://www.diycode.cc/projects
+  [82]: http://www.androidblog.cn/index.php/Source/index/p/1
+  [83]: http://www.trinea.cn/
+  [84]: http://blog.csdn.net/sinyu890807/
+  [85]: http://blog.csdn.net/lmj623565791
+  [86]: http://hukai.me/
+  [87]: https://github.com/Arisono/android-bookmark-shares/tree/master/%E5%A4%A7%E7%A5%9E
+  [88]: http://blog.csdn.net/itachi85
+  [89]: http://blog.csdn.net/qq_26787115/article/list/1
+  [90]: https://blog.mindorks.com/@amitshekhar
+  [91]: http://www.androidblog.cn/
+  [92]: http://www.androidweekly.cn/
+  [93]: http://androidweekly.netoidweekly.cn/
+  [94]: http://mobilefrontier.github.ioly.netoidweekly.cn/
+  [95]: https://race604.com/tag/android-weekly/
+  [96]: https://github.com/google
+  [97]: https://www.diycode.cc/developers/facebook
+  [98]: https://www.diycode.cc/developers/square
+  [99]: https://github.com/alibaba
+  [100]: https://github.com/googlesamples
+  [101]: https://github.com/JakeWharton
+  [102]: https://github.com/swankjesse
+  [103]: https://github.com/Trinea/
+  [104]: https://github.com/daimajia
+  [105]: http://hukai.me/
+  [106]: https://github.com/Arisono/android-bookmark-shares/tree/master/%E5%A4%A7%E7%A5%9E

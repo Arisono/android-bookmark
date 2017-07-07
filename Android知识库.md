@@ -1,4 +1,3 @@
-![QQ截图20170707151035.png](http://upload-images.jianshu.io/upload_images/1131704-2db328a4f7bc6032.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 更友好的阅读体验点击 [Android知识库](https://www.zybuluo.com/Arison/note/751745)
 
 ## 1.基本控件
